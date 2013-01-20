@@ -1,0 +1,56 @@
+---
+layout: page
+title: Agencies
+---
+
+<!--Javascript that pulls JSON and renders it to the page-->
+<script type="text/javascript">
+    function showAgency(agencyid)
+        {
+        $.getJSON('data/agencies.json', function(data) {          
+             $.each(data['agencies'], function(key, val) {
+                  if(agencyid==val['agency_id'])
+                    {
+                    var template = $('#agencyDetailTemplate').html();
+                    var html = Mustache.to_html(template, val);
+                    $('#agencyDetail').append(html);
+                    }
+                });  
+            });        
+        }        
+</script>
+
+<!--A template that provides layout for each entry in the JSON file-->
+{% raw  %}
+<script id="agencyDetailTemplate" type="text/template">
+    <tr>
+        <td align="center" height="100" style="padding:5px;">
+            <a href="{{url}}" target="_blank"><img src="{{logo}}" width="100" /></a>
+        </td>
+        <td align="left" style="font-size: 16px; font-weight: bold;">
+            <a href="{{url}}" target="_blank" style="color:#000;">{{name}}</a>
+        </td>
+    </tr>    
+    <tr>
+        <td colspan="2" style="padding-left: 90px;">
+            <br /><p><strong>URL:</strong>  <a href="{{url}}" target="_blank">{{url}}</a></p>
+        </td>
+    </tr>   
+    <tr>
+        <td colspan="2" style="padding-left: 90px;">
+            <p><strong>Digital Strategy:</strong> (<a href="{{digital_strategy_html}}" target="_blank">HTML/a>) (<a href="{{digital_strategy_json}}" target="_blank">JSON</a>) (<a href="{{digital_strategy_xml}}" target="_blank">XML</a>)</p><br />
+        </td>
+    </tr>             
+</script>
+{% endraw %}
+
+<!--Always provide link to raw JSON file on Github-->
+<p><a href="https://raw.github.com/kinlane/digital-strategy/gh-pages/data/agencies.json" target="_blank"><img src="images/json-data-store.jpg" align="right" width="40" style="padding-top: 10px;" /></a></p>
+
+<!--Each entry in JSON file will have HTML template applied and appended to this table-->
+<table cellpadding="5" cellspacing="1" width="50%" border="0" id="agencyDetail" align="center"></table>
+
+<!--This actually runs the whole process-->
+<script type="text/javascript">
+    showAgency(getUrlVar('agency_id'));
+</script>
