@@ -1,0 +1,4139 @@
+{
+    "published": "01/20/2013",
+    "agencies": [
+        {
+            "agency_id": "usda",
+            "name": "Department of Agriculture (USDA)",
+            "url": "http://www.usda.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/usda.png",
+            "digital_strategy_html": "http://www.usda.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.usda.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.usda.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "AnimalWelfareIC",
+                    "url": "http://twitter.com/AnimalWelfareIC",
+                    "follower_count": "3806"
+                },
+                {
+                    "user_name": "APHISgov",
+                    "url": "http://twitter.com/APHISgov",
+                    "follower_count": "9"
+                },
+                {
+                    "user_name": "beetlebusters",
+                    "url": "http://twitter.com/beetlebusters",
+                    "follower_count": "304"
+                },
+                {
+                    "user_name": "biopreferred",
+                    "url": "http://twitter.com/biopreferred",
+                    "follower_count": "2215"
+                },
+                {
+                    "user_name": "cheecker",
+                    "url": "http://twitter.com/cheecker",
+                    "follower_count": "5015"
+                },
+                {
+                    "user_name": "FoodSafety",
+                    "url": "http://twitter.com/FoodSafety",
+                    "follower_count": "28685"
+                },
+                {
+                    "user_name": "foodsafetygov",
+                    "url": "http://twitter.com/foodsafetygov",
+                    "follower_count": "25282"
+                },
+                {
+                    "user_name": "forestservice",
+                    "url": "http://twitter.com/forestservice",
+                    "follower_count": "30199"
+                },
+                {
+                    "user_name": "invasiveinfo",
+                    "url": "http://twitter.com/invasiveinfo",
+                    "follower_count": "1496"
+                },
+                {
+                    "user_name": "MyPlate",
+                    "url": "http://twitter.com/MyPlate",
+                    "follower_count": "37571"
+                },
+                {
+                    "user_name": "national_ag_lib",
+                    "url": "http://twitter.com/national_ag_lib",
+                    "follower_count": "17177"
+                },
+                {
+                    "user_name": "Nutrition_gov",
+                    "url": "http://twitter.com/Nutrition_gov",
+                    "follower_count": "19814"
+                },
+                {
+                    "user_name": "peoplesgarden",
+                    "url": "http://twitter.com/peoplesgarden",
+                    "follower_count": "13698"
+                },
+                {
+                    "user_name": "RuralTour",
+                    "url": "http://twitter.com/RuralTour",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "SafeFoodScience",
+                    "url": "http://twitter.com/SafeFoodScience",
+                    "follower_count": "1611"
+                },
+                {
+                    "user_name": "ScienceAtUSDA",
+                    "url": "http://twitter.com/ScienceAtUSDA",
+                    "follower_count": "2109"
+                },
+                {
+                    "user_name": "SNAP_Ed",
+                    "url": "http://twitter.com/SNAP_Ed",
+                    "follower_count": "3553"
+                },
+                {
+                    "user_name": "TeamNutrition",
+                    "url": "http://twitter.com/TeamNutrition",
+                    "follower_count": "22692"
+                },
+                {
+                    "user_name": "thegradschool",
+                    "url": "http://twitter.com/thegradschool",
+                    "follower_count": "1218"
+                },
+                {
+                    "user_name": "usda",
+                    "url": "http://twitter.com/usda",
+                    "follower_count": "116102"
+                },
+                {
+                    "user_name": "USDAFoodSafety",
+                    "url": "http://twitter.com/USDAFoodSafety",
+                    "follower_count": "377784"
+                },
+                {
+                    "user_name": "USDAFoodSafe_es",
+                    "url": "http://twitter.com/USDAFoodSafe_es",
+                    "follower_count": "1942"
+                },
+                {
+                    "user_name": "USDAForeignAg",
+                    "url": "http://twitter.com/USDAForeignAg",
+                    "follower_count": "5140"
+                },
+                {
+                    "user_name": "usdafsa",
+                    "url": "http://twitter.com/usdafsa",
+                    "follower_count": "12631"
+                },
+                {
+                    "user_name": "usdafsaenergy",
+                    "url": "http://twitter.com/usdafsaenergy",
+                    "follower_count": "1734"
+                },
+                {
+                    "user_name": "usdafsa_es",
+                    "url": "http://twitter.com/usdafsa_es",
+                    "follower_count": "387"
+                },
+                {
+                    "user_name": "usdagov",
+                    "url": "http://twitter.com/usdagov",
+                    "follower_count": "346"
+                },
+                {
+                    "user_name": "USDAnutrition",
+                    "url": "http://twitter.com/USDAnutrition",
+                    "follower_count": "14374"
+                },
+                {
+                    "user_name": "usdapress",
+                    "url": "http://twitter.com/usdapress",
+                    "follower_count": "2317"
+                },
+                {
+                    "user_name": "usdaRD",
+                    "url": "http://twitter.com/usdaRD",
+                    "follower_count": "5945"
+                },
+                {
+                    "user_name": "usda_ams",
+                    "url": "http://twitter.com/usda_ams",
+                    "follower_count": "7965"
+                },
+                {
+                    "user_name": "USDA_AMS_NEWS",
+                    "url": "http://twitter.com/USDA_AMS_NEWS",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "USDA_APHIS",
+                    "url": "http://twitter.com/USDA_APHIS",
+                    "follower_count": "8440"
+                },
+                {
+                    "user_name": "usda_ars",
+                    "url": "http://twitter.com/usda_ars",
+                    "follower_count": "3105"
+                },
+                {
+                    "user_name": "USDA_ERS",
+                    "url": "http://twitter.com/USDA_ERS",
+                    "follower_count": "8913"
+                },
+                {
+                    "user_name": "usda_nass",
+                    "url": "http://twitter.com/usda_nass",
+                    "follower_count": "10411"
+                },
+                {
+                    "user_name": "USDA_NIFA",
+                    "url": "http://twitter.com/USDA_NIFA",
+                    "follower_count": "6360"
+                },
+                {
+                    "user_name": "usda_nrcs",
+                    "url": "http://twitter.com/usda_nrcs",
+                    "follower_count": "5563"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "asianlonghornbeetle",
+                    "url": "http://facebook.com/asianlonghornbeetle",
+                    "like_count": "10289"
+                },
+                {
+                    "user_name": "FoodSafety.gov",
+                    "url": "http://facebook.com/FoodSafety.gov",
+                    "like_count": "4623"
+                },
+                {
+                    "user_name": "letsmove",
+                    "url": "http://facebook.com/letsmove",
+                    "like_count": "115000"
+                },
+                {
+                    "user_name": "TheGraduateSchool",
+                    "url": "http://facebook.com/TheGraduateSchool",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "usda",
+                    "url": "http://facebook.com/usda",
+                    "like_count": "53020"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "National Farmers Market Directory",
+                    "description": "AMS produced director containing information about U.S. farmers market locations, directions, operating times, product offerings, and accepted forms of payment. Supports local and regional food systems, as well as development of local economies."
+                },
+                {
+                    "name": "Office Information Profile System",
+                    "description": "USDA Service Centers are designed to be a single location where customers can access the services provided by the Farm Service Agency, Natural Resources Conservation Service, and the Rural Development agencies. This tool provides the address of a USDA Service Center and other Agency offices serving your area along with information on how to contact them."
+                },
+                {
+                    "name": "ERS Charts of Note",
+                    "description": "Highlights from our current and past research currently provided in daily Charts of Note available via Web APIs (Application Programming Interfaces, a system of machine-to-machine interactions over a network), and an embeddable widget code"
+                },
+                {
+                    "name": "Digital Asset Management",
+                    "description": "A DAM system (DAMS) is a combination of software, hardware and professional services that provides a central location for storing, managing and accessing digital assets - both the files and the accompanying metadata. Digital assets include images, graphics, logos, animations, audio/video clips, presentations, pages, documents and a number of other digital file formats."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "USDA Newsroom",
+                    "description": "The USDA Newsroom holds official news releases, statements, transcripts and speeches released by the Department."
+                },
+                {
+                    "name": "USDA Blog",
+                    "description": "The Blog features content from all USDA agencies and features the latest news, events and features. The Blog also provides the public an opportunity to ask questions or share their thoughts about the latest issues."
+                },
+                {
+                    "name": "AmberWaves eZine",
+                    "description": "Fully mobile-optimized online magazine, and magazine app for offline reading on tablets and other mobile devices"
+                },
+                {
+                    "name": "LDP/PCP Rates",
+                    "description": "Mobile Version of the Loan Deficiency Payment and Posted County Price rate system"
+                },
+                {
+                    "name": "Meat and Poultry Inspection Directory",
+                    "description": "The Meat, Poultry and Egg Product Inspection Directory is a listing of establishments that produce meat, poultry, and/or egg products regulated by USDA's Food Safety and Inspection Service (FSIS) pursuant to the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act."
+                }
+            ],
+            "facebook_account_count": 5,
+            "facebook_like_count": 182932,
+            "twitter_account_count": 38,
+            "twitter_follower_count": 805913,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "commerce",
+            "name": "Department of Commerce",
+            "url": "http://www.commerce.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/commerce.png",
+            "digital_strategy_html": "http://www.commerce.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.commerce.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.commerce.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "CommerceGov",
+                    "url": "http://twitter.com/CommerceGov",
+                    "follower_count": "30909"
+                },
+                {
+                    "user_name": "ExportGov",
+                    "url": "http://twitter.com/ExportGov",
+                    "follower_count": "12643"
+                },
+                {
+                    "user_name": "nauticalcharts",
+                    "url": "http://twitter.com/nauticalcharts",
+                    "follower_count": "5301"
+                },
+                {
+                    "user_name": "NOAAFisheries",
+                    "url": "http://twitter.com/NOAAFisheries",
+                    "follower_count": "6052"
+                },
+                {
+                    "user_name": "NTISInfo",
+                    "url": "http://twitter.com/NTISInfo",
+                    "follower_count": "1881"
+                },
+                {
+                    "user_name": "NWSGaylord",
+                    "url": "http://twitter.com/NWSGaylord",
+                    "follower_count": "336"
+                },
+                {
+                    "user_name": "TradeGov",
+                    "url": "http://twitter.com/TradeGov",
+                    "follower_count": "7816"
+                },
+                {
+                    "user_name": "uscensusbureau",
+                    "url": "http://twitter.com/uscensusbureau",
+                    "follower_count": "33525"
+                },
+                {
+                    "user_name": "usfisheriesgov",
+                    "url": "http://twitter.com/usfisheriesgov",
+                    "follower_count": "6"
+                },
+                {
+                    "user_name": "USMBDA",
+                    "url": "http://twitter.com/USMBDA",
+                    "follower_count": "2548"
+                },
+                {
+                    "user_name": "usnistgov",
+                    "url": "http://twitter.com/usnistgov",
+                    "follower_count": "9561"
+                },
+                {
+                    "user_name": "usnoaagov",
+                    "url": "http://twitter.com/usnoaagov",
+                    "follower_count": "477"
+                },
+                {
+                    "user_name": "usNWSgov",
+                    "url": "http://twitter.com/usNWSgov",
+                    "follower_count": "34585"
+                },
+                {
+                    "user_name": "usoceangov",
+                    "url": "http://twitter.com/usoceangov",
+                    "follower_count": "14"
+                },
+                {
+                    "user_name": "uspto",
+                    "url": "http://twitter.com/uspto",
+                    "follower_count": "10321"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "4nist",
+                    "url": "http://facebook.com/4nist",
+                    "like_count": "7624"
+                },
+                {
+                    "user_name": "Commercegov",
+                    "url": "http://facebook.com/Commercegov",
+                    "like_count": "7979"
+                },
+                {
+                    "user_name": "eda.commerce",
+                    "url": "http://facebook.com/eda.commerce",
+                    "like_count": "1132"
+                },
+                {
+                    "user_name": "ExportGov",
+                    "url": "http://facebook.com/ExportGov",
+                    "like_count": "4030"
+                },
+                {
+                    "user_name": "noaa.lubchenco",
+                    "url": "http://facebook.com/noaa.lubchenco",
+                    "like_count": "7153"
+                },
+                {
+                    "user_name": "noaa.nodc",
+                    "url": "http://facebook.com/noaa.nodc",
+                    "like_count": "1991"
+                },
+                {
+                    "user_name": "TradeGov",
+                    "url": "http://facebook.com/TradeGov",
+                    "like_count": "4135"
+                },
+                {
+                    "user_name": "US.National.Weather.Service.gov",
+                    "url": "http://facebook.com/US.National.Weather.Service.gov",
+                    "like_count": "148000"
+                },
+                {
+                    "user_name": "US.NationalWeatherService.Gaylord.gov",
+                    "url": "http://facebook.com/US.NationalWeatherService.Gaylord.gov",
+                    "like_count": "2061"
+                },
+                {
+                    "user_name": "uscensusbureau",
+                    "url": "http://facebook.com/uscensusbureau",
+                    "like_count": "116000"
+                },
+                {
+                    "user_name": "usmbda",
+                    "url": "http://facebook.com/usmbda",
+                    "like_count": "3631"
+                },
+                {
+                    "user_name": "usnoaafisheriesgov",
+                    "url": "http://facebook.com/usnoaafisheriesgov",
+                    "like_count": "6360"
+                },
+                {
+                    "user_name": "usnoaagov",
+                    "url": "http://facebook.com/usnoaagov",
+                    "like_count": "113000"
+                },
+                {
+                    "user_name": "usoceangov",
+                    "url": "http://facebook.com/usoceangov",
+                    "like_count": "11063"
+                },
+                {
+                    "user_name": "uspto.gov",
+                    "url": "http://facebook.com/uspto.gov",
+                    "like_count": "12422"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "Export.gov API",
+                    "description": "An API that will allow developers access to Export.gov\\\\\\'s events data"
+                },
+                {
+                    "name": "Census API",
+                    "description": "Additional economic and demographic data"
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Commerce.gov",
+                    "description": "Ensuring mobile-optimization of Commerce.gov"
+                },
+                {
+                    "name": "Census mobile apps",
+                    "description": "Census will develop 2 additional mobile apps"
+                }
+            ],
+            "facebook_account_count": 15,
+            "facebook_like_count": 446581,
+            "twitter_account_count": 15,
+            "twitter_follower_count": 155975,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "defense",
+            "name": "Department of Defense (DOD)",
+            "url": "http://www.defense.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/defense.png",
+            "digital_strategy_html": "http://www.defense.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.defense.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.defense.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "AFPS_Articles",
+                    "url": "http://twitter.com/AFPS_Articles",
+                    "follower_count": "7666"
+                },
+                {
+                    "user_name": "ArmedwScience",
+                    "url": "http://twitter.com/ArmedwScience",
+                    "follower_count": "16240"
+                },
+                {
+                    "user_name": "ArmyContracting",
+                    "url": "http://twitter.com/ArmyContracting",
+                    "follower_count": "1346"
+                },
+                {
+                    "user_name": "Arsenal_Island",
+                    "url": "http://twitter.com/Arsenal_Island",
+                    "follower_count": "347"
+                },
+                {
+                    "user_name": "cerdec",
+                    "url": "http://twitter.com/cerdec",
+                    "follower_count": "2053"
+                },
+                {
+                    "user_name": "darpa_news",
+                    "url": "http://twitter.com/darpa_news",
+                    "follower_count": "93"
+                },
+                {
+                    "user_name": "DefenseIntel",
+                    "url": "http://twitter.com/DefenseIntel",
+                    "follower_count": "3198"
+                },
+                {
+                    "user_name": "DeptofDefense",
+                    "url": "http://twitter.com/DeptofDefense",
+                    "follower_count": "138583"
+                },
+                {
+                    "user_name": "DLAMIL",
+                    "url": "http://twitter.com/DLAMIL",
+                    "follower_count": "1885"
+                },
+                {
+                    "user_name": "dodea",
+                    "url": "http://twitter.com/dodea",
+                    "follower_count": "755"
+                },
+                {
+                    "user_name": "DoDInspGeneral",
+                    "url": "http://twitter.com/DoDInspGeneral",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "DoDLiveMil",
+                    "url": "http://twitter.com/DoDLiveMil",
+                    "follower_count": "14227"
+                },
+                {
+                    "user_name": "DoD_IG",
+                    "url": "http://twitter.com/DoD_IG",
+                    "follower_count": "1084"
+                },
+                {
+                    "user_name": "ftmeadealert",
+                    "url": "http://twitter.com/ftmeadealert",
+                    "follower_count": "362"
+                },
+                {
+                    "user_name": "ftmeademd",
+                    "url": "http://twitter.com/ftmeademd",
+                    "follower_count": "2439"
+                },
+                {
+                    "user_name": "idcsync",
+                    "url": "http://twitter.com/idcsync",
+                    "follower_count": "146"
+                },
+                {
+                    "user_name": "medicalmuseum",
+                    "url": "http://twitter.com/medicalmuseum",
+                    "follower_count": "1436"
+                },
+                {
+                    "user_name": "NGA_GEOINT",
+                    "url": "http://twitter.com/NGA_GEOINT",
+                    "follower_count": "1524"
+                },
+                {
+                    "user_name": "NSACareers",
+                    "url": "http://twitter.com/NSACareers",
+                    "follower_count": "2539"
+                },
+                {
+                    "user_name": "nvesd",
+                    "url": "http://twitter.com/nvesd",
+                    "follower_count": "349"
+                },
+                {
+                    "user_name": "rdecom",
+                    "url": "http://twitter.com/rdecom",
+                    "follower_count": "3450"
+                },
+                {
+                    "user_name": "SoldiersMag",
+                    "url": "http://twitter.com/SoldiersMag",
+                    "follower_count": "6785"
+                },
+                {
+                    "user_name": "thecommissary",
+                    "url": "http://twitter.com/thecommissary",
+                    "follower_count": "5"
+                },
+                {
+                    "user_name": "ThePFPA",
+                    "url": "http://twitter.com/ThePFPA",
+                    "follower_count": "369"
+                },
+                {
+                    "user_name": "usnrl",
+                    "url": "http://twitter.com/usnrl",
+                    "follower_count": "3374"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "128258946827",
+                    "url": "http://facebook.com/128258946827",
+                    "like_count": "1148"
+                },
+                {
+                    "user_name": "136880189673357",
+                    "url": "http://facebook.com/136880189673357",
+                    "like_count": "23056"
+                },
+                {
+                    "user_name": "AmericanForcesPressService",
+                    "url": "http://facebook.com/AmericanForcesPressService",
+                    "like_count": "5466"
+                },
+                {
+                    "user_name": "ArmedwithScience",
+                    "url": "http://facebook.com/ArmedwithScience",
+                    "like_count": "7555"
+                },
+                {
+                    "user_name": "cerdec",
+                    "url": "http://facebook.com/cerdec",
+                    "like_count": "828"
+                },
+                {
+                    "user_name": "corpslakes",
+                    "url": "http://facebook.com/corpslakes",
+                    "like_count": "1115"
+                },
+                {
+                    "user_name": "DARPA",
+                    "url": "http://facebook.com/DARPA",
+                    "like_count": "24645"
+                },
+                {
+                    "user_name": "DefenseFinanceandAccountingService",
+                    "url": "http://facebook.com/DefenseFinanceandAccountingService",
+                    "like_count": "70479"
+                },
+                {
+                    "user_name": "DeptofDefense",
+                    "url": "http://facebook.com/DeptofDefense",
+                    "like_count": "198000"
+                },
+                {
+                    "user_name": "DIA",
+                    "url": "http://facebook.com/DIA",
+                    "like_count": "12017"
+                },
+                {
+                    "user_name": "dla.mil",
+                    "url": "http://facebook.com/dla.mil",
+                    "like_count": "8645"
+                },
+                {
+                    "user_name": "dodea.edu",
+                    "url": "http://facebook.com/dodea.edu",
+                    "like_count": "6266"
+                },
+                {
+                    "user_name": "DoDLive",
+                    "url": "http://facebook.com/DoDLive",
+                    "like_count": "3911"
+                },
+                {
+                    "user_name": "ftmeade",
+                    "url": "http://facebook.com/ftmeade",
+                    "like_count": "12911"
+                },
+                {
+                    "user_name": "idcsync",
+                    "url": "http://facebook.com/idcsync",
+                    "like_count": "2658"
+                },
+                {
+                    "user_name": "medicalmuseum",
+                    "url": "http://facebook.com/medicalmuseum",
+                    "like_count": "1866"
+                },
+                {
+                    "user_name": "MissileDefenseAgency",
+                    "url": "http://facebook.com/MissileDefenseAgency",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "NatlGEOINTAgency",
+                    "url": "http://facebook.com/NatlGEOINTAgency",
+                    "like_count": "1937"
+                },
+                {
+                    "user_name": "NSACareers",
+                    "url": "http://facebook.com/NSACareers",
+                    "like_count": "21159"
+                },
+                {
+                    "user_name": "NVESD",
+                    "url": "http://facebook.com/NVESD",
+                    "like_count": "649"
+                },
+                {
+                    "user_name": "PentagonForceProtectionAgency",
+                    "url": "http://facebook.com/PentagonForceProtectionAgency",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "rockislandarsenal",
+                    "url": "http://facebook.com/rockislandarsenal",
+                    "like_count": "2535"
+                },
+                {
+                    "user_name": "SoldiersMag",
+                    "url": "http://facebook.com/SoldiersMag",
+                    "like_count": "9767"
+                },
+                {
+                    "user_name": "USArmycontractingcommand",
+                    "url": "http://facebook.com/USArmycontractingcommand",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "usarmyrdecom",
+                    "url": "http://facebook.com/usarmyrdecom",
+                    "like_count": "4184"
+                },
+                {
+                    "user_name": "usnrl",
+                    "url": "http://facebook.com/usnrl",
+                    "like_count": "3957"
+                }
+            ],
+            "github": [
+                {
+                    "ID": "192",
+                    "agency_id": "defense",
+                    "type": "github",
+                    "url": "http://github.com/erdc-cm",
+                    "user_name": "erdc-cm",
+                    "follower_count": null,
+                    "like_count": null,
+                    "repo_count": "24"
+                }
+            ],
+            "data_api": [
+                {
+                    "name": "United States Army Corps of Engineers (USACE) Lockage Data",
+                    "description": "The Corps Locks website contains lock and vessel specific information derived from the United States Army Corps of Engineers Lock Performance Monitoring System (LPMS)."
+                },
+                {
+                    "name": "United States Army Corps of Engineers (USACE) Commodity Data",
+                    "description": "The USACE Commodity system provides commodities information to the Department of Agriculture on a weekly basis."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "TRICARE Website",
+                    "description": "Provides TRICARE Coverage Plan information to active and retired Uniformed Services and their families"
+                },
+                {
+                    "name": "Defense Commissary Agency (DeCA) Commissaries Locator",
+                    "description": "Provides users the closet store hours, directions, contact information, floor plans, etc."
+                },
+                {
+                    "name": "Arlington National Cemetery Grave Site Locator",
+                    "description": "Enables veterans, family members and the public to locate gravesites; generate front and back photos of a headstone or monument; and receive directions to those locations."
+                }
+            ],
+            "facebook_account_count": 26,
+            "facebook_like_count": 424754,
+            "twitter_account_count": 25,
+            "twitter_follower_count": 210255,
+            "github_account_count": 1,
+            "github_repo_count": 24
+        },
+        {
+            "agency_id": "ed",
+            "name": "Department of Education (ED)",
+            "url": "http://www.ed.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/ed.png",
+            "digital_strategy_html": "http://www.ed.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.ed.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.ed.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "arneduncan",
+                    "url": "http://twitter.com/arneduncan",
+                    "follower_count": "68431"
+                },
+                {
+                    "user_name": "edcivilrights",
+                    "url": "http://twitter.com/edcivilrights",
+                    "follower_count": "4156"
+                },
+                {
+                    "user_name": "EDFedRegister",
+                    "url": "http://twitter.com/EDFedRegister",
+                    "follower_count": "3700"
+                },
+                {
+                    "user_name": "EDGovJobs",
+                    "url": "http://twitter.com/EDGovJobs",
+                    "follower_count": "11481"
+                },
+                {
+                    "user_name": "edpartners",
+                    "url": "http://twitter.com/edpartners",
+                    "follower_count": "6650"
+                },
+                {
+                    "user_name": "EDPostsecondary",
+                    "url": "http://twitter.com/EDPostsecondary",
+                    "follower_count": "2208"
+                },
+                {
+                    "user_name": "EDPressSec",
+                    "url": "http://twitter.com/EDPressSec",
+                    "follower_count": "23172"
+                },
+                {
+                    "user_name": "ED_Outreach",
+                    "url": "http://twitter.com/ED_Outreach",
+                    "follower_count": "15316"
+                },
+                {
+                    "user_name": "ERICinfo",
+                    "url": "http://twitter.com/ERICinfo",
+                    "follower_count": "1027"
+                },
+                {
+                    "user_name": "fafsa",
+                    "url": "http://twitter.com/fafsa",
+                    "follower_count": "18953"
+                },
+                {
+                    "user_name": "FreeResources",
+                    "url": "http://twitter.com/FreeResources",
+                    "follower_count": "11455"
+                },
+                {
+                    "user_name": "fsaconf",
+                    "url": "http://twitter.com/fsaconf",
+                    "follower_count": "1422"
+                },
+                {
+                    "user_name": "GovBoard",
+                    "url": "http://twitter.com/GovBoard",
+                    "follower_count": "556"
+                },
+                {
+                    "user_name": "OfficeofEdTech",
+                    "url": "http://twitter.com/OfficeofEdTech",
+                    "follower_count": "29052"
+                },
+                {
+                    "user_name": "ProjectOpenData",
+                    "url": "http://twitter.com/ProjectOpenData",
+                    "follower_count": "1646"
+                },
+                {
+                    "user_name": "RuralED",
+                    "url": "http://twitter.com/RuralED",
+                    "follower_count": "2272"
+                },
+                {
+                    "user_name": "TEACHgov",
+                    "url": "http://twitter.com/TEACHgov",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "usedgov",
+                    "url": "http://twitter.com/usedgov",
+                    "follower_count": "172871"
+                },
+                {
+                    "user_name": "USMarthaKanter",
+                    "url": "http://twitter.com/USMarthaKanter",
+                    "follower_count": "1459"
+                },
+                {
+                    "user_name": "WhiteHouseAAPI",
+                    "url": "http://twitter.com/WhiteHouseAAPI",
+                    "follower_count": "3964"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "116414408392302",
+                    "url": "http://facebook.com/116414408392302",
+                    "like_count": "5237"
+                },
+                {
+                    "user_name": "116820385017747",
+                    "url": "http://facebook.com/116820385017747",
+                    "like_count": "6337"
+                },
+                {
+                    "user_name": "131588424007",
+                    "url": "http://facebook.com/131588424007",
+                    "like_count": "1323"
+                },
+                {
+                    "user_name": "136786839692361",
+                    "url": "http://facebook.com/136786839692361",
+                    "like_count": "718"
+                },
+                {
+                    "user_name": "346769469411",
+                    "url": "http://facebook.com/346769469411",
+                    "like_count": "5734"
+                },
+                {
+                    "user_name": "371060912052",
+                    "url": "http://facebook.com/371060912052",
+                    "like_count": "974"
+                },
+                {
+                    "user_name": "college.gov",
+                    "url": "http://facebook.com/college.gov",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "ED.gov",
+                    "url": "http://facebook.com/ED.gov",
+                    "like_count": "12571"
+                },
+                {
+                    "user_name": "EDCivilRights",
+                    "url": "http://facebook.com/EDCivilRights",
+                    "like_count": "2216"
+                },
+                {
+                    "user_name": "edpartners",
+                    "url": "http://facebook.com/edpartners",
+                    "like_count": "916"
+                },
+                {
+                    "user_name": "EducationOIG",
+                    "url": "http://facebook.com/EducationOIG",
+                    "like_count": "974"
+                },
+                {
+                    "user_name": "federalstudentaid",
+                    "url": "http://facebook.com/federalstudentaid",
+                    "like_count": "63832"
+                },
+                {
+                    "user_name": "letsmove",
+                    "url": "http://facebook.com/letsmove",
+                    "like_count": "115000"
+                },
+                {
+                    "user_name": "SecretaryArneDuncan",
+                    "url": "http://facebook.com/SecretaryArneDuncan",
+                    "like_count": "15840"
+                },
+                {
+                    "user_name": "StopBullying.Gov",
+                    "url": "http://facebook.com/StopBullying.Gov",
+                    "like_count": "49478"
+                },
+                {
+                    "user_name": "teachgov",
+                    "url": "http://facebook.com/teachgov",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "TheGoverningBoard",
+                    "url": "http://facebook.com/TheGoverningBoard",
+                    "like_count": "234"
+                },
+                {
+                    "user_name": "USMarthaKanter",
+                    "url": "http://facebook.com/USMarthaKanter",
+                    "like_count": "290"
+                },
+                {
+                    "user_name": "whatworksclearinghouse",
+                    "url": "http://facebook.com/whatworksclearinghouse",
+                    "like_count": "1003"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "EDFacts",
+                    "description": "The purpose of EDFacts is to collect and report K-12 education performance data for use by policymakers and Department of Education program offices.  With relevant, actionable data supplied by EDFacts, decision-makers can identify which programs are working, have insight into education progress at the state and district levels, identify gaps and best practices, and make sound education policy and budgetary decisions to improve education outcomes. http://www2.ed.gov/about/inits/ed/edfacts/index.html "
+                },
+                {
+                    "name": "State Education Data Profiles",
+                    "description": "Web-based search tool for statewide information in elementary/secondary education, postsecondary education and selected demographics for all states in the U.S. using a variety of NCES data sources including NAEP, IPEDS, and CCD data. http://nces.ed.gov/programs/stateprofiles/ "
+                },
+                {
+                    "name": "College Navigator",
+                    "description": "A web-based tool for searching all colleges and universities in the United States. College Navigator consists primarily of the latest data from the Integrated Postsecondary Education Data System (IPEDS), the core postsecondary education data collection program for the National Center for Education Statistics. http://nces.ed.gov/collegenavigator/ "
+                },
+                {
+                    "name": "Program Information Publication System (Part of Program Information on the Web)",
+                    "description": "One of ED's core purposes is to inform the public about funding opportunities (programs).  Currently program information is available on the Web in HTML web pages.  ED is developing a central database repository (Program Information Publication System or PIPS) with a web API.  ED.gov will call on the PIPS web API to publish program information on the website and provide an online search tool.  Customers will be able to find more consistent, up-to-date program information quickly and easily. Information for this initiative is limited to programs authorized and funded under federal law as well as other related efforts, and encompasses several ED offices. "
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "G5 Grants Management System",
+                    "description": "G5 supports the Agency's grant making business process and is a full lifecycle end-to-end grants management system (from intake of applications, peer review, award, payment, performance monitoring and final closeout of the grant award. https://www.g5.gov"
+                },
+                {
+                    "name": "StudentAid.gov",
+                    "description": "StudentAid.gov is the first step in a multi-phase project to provide consumers with a one-stop website where they can access federal student aid information, apply for federal aid, repay student loans and navigate the college decision-making process. Whether you're a student, a parent, a borrower in repayment, an educator or a professional engaged in influencing and informing students and borrowers, StudentAid.gov has useful information for you. The site, available in English and Spanish, combines content and interactive tools from several U.S. Department of Education websites and makes it easy for you to find the information you need. It also features videos and infographics to help answer the most frequently asked questions about financial aid accessible via smartphones and tablets. http://www.studentaid.gov"
+                },
+                {
+                    "name": "Homeroom Blog",
+                    "description": "Homeroom Blog is the official blog of the Department.  The purpose of these blog is to facilitate an ongoing dialogue on education issues."
+                },
+                {
+                    "name": "College Navigator",
+                    "description": "Web-based tool for searching all colleges and universities in the United States. College Navigator consists primarily of the latest data from the Integrated Postsecondary Education Data System (IPEDS), the core postsecondary education data collection program for the National Center for Education Statistics. http://nces.ed.gov/collegenavigator/"
+                },
+                {
+                    "name": "ED.gov",
+                    "description": "ED.gov is the Department's primary Internet portal and website. As such, it performs the following functions to ensure efficient and expanded public access and communication between the government and citizens: convey the Department's brand and key messages, provide relevant and timely information, hosts sites for ED offices and programs, and provide a unified entry point to other ED resources. http://www.ed.gov/ "
+                }
+            ],
+            "facebook_account_count": 19,
+            "facebook_like_count": 282677,
+            "twitter_account_count": 20,
+            "twitter_follower_count": 379791,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "energy",
+            "name": "Department of Energy (DOE)",
+            "url": "http://www.energy.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/energy.png",
+            "digital_strategy_html": "http://www.energy.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.energy.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.energy.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "arpae",
+                    "url": "http://twitter.com/arpae",
+                    "follower_count": "5491"
+                },
+                {
+                    "user_name": "bpanews",
+                    "url": "http://twitter.com/bpanews",
+                    "follower_count": "857"
+                },
+                {
+                    "user_name": "eiagov",
+                    "url": "http://twitter.com/eiagov",
+                    "follower_count": "15336"
+                },
+                {
+                    "user_name": "eiagovNo",
+                    "url": "http://twitter.com/eiagovNo",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "energy",
+                    "url": "http://twitter.com/energy",
+                    "follower_count": "84963"
+                },
+                {
+                    "user_name": "energycodes",
+                    "url": "http://twitter.com/energycodes",
+                    "follower_count": "1356"
+                },
+                {
+                    "user_name": "energypresssec",
+                    "url": "http://twitter.com/energypresssec",
+                    "follower_count": "4614"
+                },
+                {
+                    "user_name": "fossilenergygov",
+                    "url": "http://twitter.com/fossilenergygov",
+                    "follower_count": "2559"
+                },
+                {
+                    "user_name": "Livermore_Lab",
+                    "url": "http://twitter.com/Livermore_Lab",
+                    "follower_count": "4835"
+                },
+                {
+                    "user_name": "NNSANews",
+                    "url": "http://twitter.com/NNSANews",
+                    "follower_count": "5491"
+                },
+                {
+                    "user_name": "OSTIgov",
+                    "url": "http://twitter.com/OSTIgov",
+                    "follower_count": "476"
+                },
+                {
+                    "user_name": "ProjectOpenData",
+                    "url": "http://twitter.com/ProjectOpenData",
+                    "follower_count": "1646"
+                },
+                {
+                    "user_name": "solar_decathlon",
+                    "url": "http://twitter.com/solar_decathlon",
+                    "follower_count": "8497"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "486186205206",
+                    "url": "http://facebook.com/486186205206",
+                    "like_count": "658"
+                },
+                {
+                    "user_name": "arpaegov",
+                    "url": "http://facebook.com/arpaegov",
+                    "like_count": "3139"
+                },
+                {
+                    "user_name": "bonnevillepower",
+                    "url": "http://facebook.com/bonnevillepower",
+                    "like_count": "1362"
+                },
+                {
+                    "user_name": "DOEsolardecathlon",
+                    "url": "http://facebook.com/DOEsolardecathlon",
+                    "like_count": "10306"
+                },
+                {
+                    "user_name": "eeregov",
+                    "url": "http://facebook.com/eeregov",
+                    "like_count": "6939"
+                },
+                {
+                    "user_name": "eiagov",
+                    "url": "http://facebook.com/eiagov",
+                    "like_count": "794"
+                },
+                {
+                    "user_name": "EnergyAmbassadorsSouth",
+                    "url": "http://facebook.com/EnergyAmbassadorsSouth",
+                    "like_count": "132"
+                },
+                {
+                    "user_name": "energycodes",
+                    "url": "http://facebook.com/energycodes",
+                    "like_count": "1535"
+                },
+                {
+                    "user_name": "energygov",
+                    "url": "http://facebook.com/energygov",
+                    "like_count": "21972"
+                },
+                {
+                    "user_name": "energysavers.gov",
+                    "url": "http://facebook.com/energysavers.gov",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "FossilEnergy",
+                    "url": "http://facebook.com/FossilEnergy",
+                    "like_count": "790"
+                },
+                {
+                    "user_name": "HanfordSite",
+                    "url": "http://facebook.com/HanfordSite",
+                    "like_count": "745"
+                },
+                {
+                    "user_name": "livermore.lab",
+                    "url": "http://facebook.com/livermore.lab",
+                    "like_count": "3431"
+                },
+                {
+                    "user_name": "NNSANevadaSiteOffice",
+                    "url": "http://facebook.com/NNSANevadaSiteOffice",
+                    "like_count": "1120"
+                },
+                {
+                    "user_name": "NNSANews",
+                    "url": "http://facebook.com/NNSANews",
+                    "like_count": "5829"
+                },
+                {
+                    "user_name": "ostigov",
+                    "url": "http://facebook.com/ostigov",
+                    "like_count": "1555"
+                },
+                {
+                    "user_name": "SavannahRiverSite",
+                    "url": "http://facebook.com/SavannahRiverSite",
+                    "like_count": "698"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "ALTERNATIVE FUELING STATION LOCATION DATA - API ",
+                    "description": "The underlying data used to populate the Alternative Fueling Station Locator tool is available via a Web service. This data set is considered the most trusted industry resource for location-based alternative fueling station data because of the long-standing collection process fostered by relationships with industry and fuel providers and its continuous and rigorous vetting process. Using this API, developers can access the data to build their own mobile apps, widgets, or tools. Developers may choose to mash up the station data set with numerous other data sets available on the Web to create useful products to fill industry-specific needs.  http://developer.nrel.gov/doc/transportation"
+                },
+                {
+                    "name": "DOE GREEN ENERGY",
+                    "description": "This API data service provides green energy results from research and development conducted throughout the Department and by DOE-funded awards at universities. The service allows extraction of two data sets: green energy technical (approximately 40,000) reports and green energy patents (over 2,000). http://www.osti.gov/GreenEnergyXMLManual.pdf"
+                },
+                {
+                    "name": "Electricity API",
+                    "description": "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. The Electricity API project will make this dataset publically available.Beta Site: http://www.eia.gov/beta/api/"
+                },
+                {
+                    "name": "OpenEI",
+                    "description": "OpenEI continues to strive to be a global leader in open-data source for energy information--specifically analyses on renewable energy and energy efficiency. The platform is a Wiki, similar to Wikipedias Wiki, which many users are already familiar with and include an API. Users can view, edit, and add data, \" and download data for free. https://www.openei.org"
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "MOBILE SITE FOR JOBS AT THE ENERGY DEPARTMENT ",
+                    "description": "The site features a searchable data pull from USAJobs of the currently available Energy Department job opportunities. It is updated daily, allowing prospective employees to search for the latest opportunities wherever and whenever they want. In addition to the job search capabilities, there are resources available to the public concerning student, veteran, and other office programs/opportunities."
+                },
+                {
+                    "name": "ENERGY.GOV",
+                    "description": "The Energy Department’s main site, Energy.gov and its contents, are now available on the go. This allows users to access the Energy Departments’ resources over a variety of mobile devices such as smart phones and tablets. The American public is becoming increasingly mobile and the Energy department is responding to this demand"
+                },
+                {
+                    "name": "ENERGY CAREER GAME",
+                    "description": "This is a fun, fast-paced puzzle/strategy game intended to generate interest and recruit the next generation of individuals and entrepreneurs in the energy industry. In the game, the player is tasked with managing resource networks between cities, power plants, homes, and businesses to provide power to these buildings. The game will educate players about the unique challenges and economic opportunities faced in meeting America’s energy needs and transitioning to a clean energy future. It will give players a better understanding of the career opportunities in the energy sector as well as the Energy Department. The game is being developed for the Department free of charge by college students who are working with the Department’s Office of Human Capital. The game will also incorporate a plug-in that will allow players to post their scores to Facebook. Expected to be ready for beta release by October 2012."
+                }
+            ],
+            "facebook_account_count": 17,
+            "facebook_like_count": 61005,
+            "twitter_account_count": 13,
+            "twitter_follower_count": 136121,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "hhs",
+            "name": "Department of Health and Human Services (HHS)",
+            "url": "http://www.hhs.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/hhs.png",
+            "digital_strategy_html": "http://www.hhs.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.hhs.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.hhs.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "AHRQNews",
+                    "url": "http://twitter.com/AHRQNews",
+                    "follower_count": "18577"
+                },
+                {
+                    "user_name": "AIDSgov",
+                    "url": "http://twitter.com/AIDSgov",
+                    "follower_count": "200496"
+                },
+                {
+                    "user_name": "AIDSinfo",
+                    "url": "http://twitter.com/AIDSinfo",
+                    "follower_count": "4362"
+                },
+                {
+                    "user_name": "bestbones4ever",
+                    "url": "http://twitter.com/bestbones4ever",
+                    "follower_count": "1345"
+                },
+                {
+                    "user_name": "CCMedEd",
+                    "url": "http://twitter.com/CCMedEd",
+                    "follower_count": "6700"
+                },
+                {
+                    "user_name": "CDCespanol",
+                    "url": "http://twitter.com/CDCespanol",
+                    "follower_count": "26580"
+                },
+                {
+                    "user_name": "CDCgov",
+                    "url": "http://twitter.com/CDCgov",
+                    "follower_count": "134342"
+                },
+                {
+                    "user_name": "cdcnpin",
+                    "url": "http://twitter.com/cdcnpin",
+                    "follower_count": "14028"
+                },
+                {
+                    "user_name": "CMSgov",
+                    "url": "http://twitter.com/CMSgov",
+                    "follower_count": "23455"
+                },
+                {
+                    "user_name": "CMSinnovates",
+                    "url": "http://twitter.com/CMSinnovates",
+                    "follower_count": "6504"
+                },
+                {
+                    "user_name": "fedstrive",
+                    "url": "http://twitter.com/fedstrive",
+                    "follower_count": "227"
+                },
+                {
+                    "user_name": "fogarty_nih",
+                    "url": "http://twitter.com/fogarty_nih",
+                    "follower_count": "3723"
+                },
+                {
+                    "user_name": "foodsafetygov",
+                    "url": "http://twitter.com/foodsafetygov",
+                    "follower_count": "25282"
+                },
+                {
+                    "user_name": "genome_gov",
+                    "url": "http://twitter.com/genome_gov",
+                    "follower_count": "3682"
+                },
+                {
+                    "user_name": "girlshealth",
+                    "url": "http://twitter.com/girlshealth",
+                    "follower_count": "343191"
+                },
+                {
+                    "user_name": "HealthCareGov",
+                    "url": "http://twitter.com/HealthCareGov",
+                    "follower_count": "74455"
+                },
+                {
+                    "user_name": "hhsgov",
+                    "url": "http://twitter.com/hhsgov",
+                    "follower_count": "230447"
+                },
+                {
+                    "user_name": "HHSGreenHealthy",
+                    "url": "http://twitter.com/HHSGreenHealthy",
+                    "follower_count": "2321"
+                },
+                {
+                    "user_name": "HRSAgov",
+                    "url": "http://twitter.com/HRSAgov",
+                    "follower_count": "4330"
+                },
+                {
+                    "user_name": "medlineplus",
+                    "url": "http://twitter.com/medlineplus",
+                    "follower_count": "45667"
+                },
+                {
+                    "user_name": "medlineplusesp",
+                    "url": "http://twitter.com/medlineplusesp",
+                    "follower_count": "7120"
+                },
+                {
+                    "user_name": "MRC_OSG",
+                    "url": "http://twitter.com/MRC_OSG",
+                    "follower_count": "817"
+                },
+                {
+                    "user_name": "nateyeinstitute",
+                    "url": "http://twitter.com/nateyeinstitute",
+                    "follower_count": "535"
+                },
+                {
+                    "user_name": "NCBI",
+                    "url": "http://twitter.com/NCBI",
+                    "follower_count": "10294"
+                },
+                {
+                    "user_name": "NCCAM",
+                    "url": "http://twitter.com/NCCAM",
+                    "follower_count": "12504"
+                },
+                {
+                    "user_name": "NCIbiospecimens",
+                    "url": "http://twitter.com/NCIbiospecimens",
+                    "follower_count": "253"
+                },
+                {
+                    "user_name": "NCIBulletin",
+                    "url": "http://twitter.com/NCIBulletin",
+                    "follower_count": "20296"
+                },
+                {
+                    "user_name": "NCIcaBIG",
+                    "url": "http://twitter.com/NCIcaBIG",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "NCICancerCtrl",
+                    "url": "http://twitter.com/NCICancerCtrl",
+                    "follower_count": "12241"
+                },
+                {
+                    "user_name": "NCIespanol",
+                    "url": "http://twitter.com/NCIespanol",
+                    "follower_count": "561"
+                },
+                {
+                    "user_name": "NCIExhibits",
+                    "url": "http://twitter.com/NCIExhibits",
+                    "follower_count": "2694"
+                },
+                {
+                    "user_name": "NCIHINTS",
+                    "url": "http://twitter.com/NCIHINTS",
+                    "follower_count": "855"
+                },
+                {
+                    "user_name": "NCImcMedia",
+                    "url": "http://twitter.com/NCImcMedia",
+                    "follower_count": "6003"
+                },
+                {
+                    "user_name": "NCIMedia",
+                    "url": "http://twitter.com/NCIMedia",
+                    "follower_count": "14645"
+                },
+                {
+                    "user_name": "NCIPhySci",
+                    "url": "http://twitter.com/NCIPhySci",
+                    "follower_count": "171"
+                },
+                {
+                    "user_name": "NCIprevention",
+                    "url": "http://twitter.com/NCIprevention",
+                    "follower_count": "15393"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "108375985869324",
+                    "url": "http://facebook.com/108375985869324",
+                    "like_count": "2249"
+                },
+                {
+                    "user_name": "138192989537134",
+                    "url": "http://facebook.com/138192989537134",
+                    "like_count": "1492"
+                },
+                {
+                    "user_name": "159778759845",
+                    "url": "http://facebook.com/159778759845",
+                    "like_count": "2444"
+                },
+                {
+                    "user_name": "199893476843",
+                    "url": "http://facebook.com/199893476843",
+                    "like_count": "7370"
+                },
+                {
+                    "user_name": "218354591533786",
+                    "url": "http://facebook.com/218354591533786",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "28902055276",
+                    "url": "http://facebook.com/28902055276",
+                    "like_count": "14695"
+                },
+                {
+                    "user_name": "45855940490",
+                    "url": "http://facebook.com/45855940490",
+                    "like_count": "14949"
+                },
+                {
+                    "user_name": "6476847301",
+                    "url": "http://facebook.com/6476847301",
+                    "like_count": "33938"
+                },
+                {
+                    "user_name": "AIDS.gov",
+                    "url": "http://facebook.com/AIDS.gov",
+                    "like_count": "19492"
+                },
+                {
+                    "user_name": "AIDSinfo",
+                    "url": "http://facebook.com/AIDSinfo",
+                    "like_count": "1513"
+                },
+                {
+                    "user_name": "aoa.gov",
+                    "url": "http://facebook.com/aoa.gov",
+                    "like_count": "2431"
+                },
+                {
+                    "user_name": "bestbonesforever",
+                    "url": "http://facebook.com/bestbonesforever",
+                    "like_count": "1744"
+                },
+                {
+                    "user_name": "cancer.gov",
+                    "url": "http://facebook.com/cancer.gov",
+                    "like_count": "18006"
+                },
+                {
+                    "user_name": "cancer.govEspanol",
+                    "url": "http://facebook.com/cancer.govEspanol",
+                    "like_count": "5017"
+                },
+                {
+                    "user_name": "CDC",
+                    "url": "http://facebook.com/CDC",
+                    "like_count": "240000"
+                },
+                {
+                    "user_name": "CDCespanol",
+                    "url": "http://facebook.com/CDCespanol",
+                    "like_count": "20859"
+                },
+                {
+                    "user_name": "cdcheadsup",
+                    "url": "http://facebook.com/cdcheadsup",
+                    "like_count": "7313"
+                },
+                {
+                    "user_name": "CDCMMWR",
+                    "url": "http://facebook.com/CDCMMWR",
+                    "like_count": "3329"
+                },
+                {
+                    "user_name": "CDCNPIN",
+                    "url": "http://facebook.com/CDCNPIN",
+                    "like_count": "1013"
+                },
+                {
+                    "user_name": "cdcparentsarethekey",
+                    "url": "http://facebook.com/cdcparentsarethekey",
+                    "like_count": "2852"
+                },
+                {
+                    "user_name": "childwelfare",
+                    "url": "http://facebook.com/childwelfare",
+                    "like_count": "7482"
+                },
+                {
+                    "user_name": "DNAday",
+                    "url": "http://facebook.com/DNAday",
+                    "like_count": "6297"
+                },
+                {
+                    "user_name": "eldercarelocator",
+                    "url": "http://facebook.com/eldercarelocator",
+                    "like_count": "646"
+                },
+                {
+                    "user_name": "fda",
+                    "url": "http://facebook.com/fda",
+                    "like_count": "42924"
+                },
+                {
+                    "user_name": "FedStrive",
+                    "url": "http://facebook.com/FedStrive",
+                    "like_count": "268"
+                },
+                {
+                    "user_name": "fogarty.nih",
+                    "url": "http://facebook.com/fogarty.nih",
+                    "like_count": "1146"
+                },
+                {
+                    "user_name": "FoodSafety.gov",
+                    "url": "http://facebook.com/FoodSafety.gov",
+                    "like_count": "4623"
+                },
+                {
+                    "user_name": "genome.gov",
+                    "url": "http://facebook.com/genome.gov",
+                    "like_count": "4070"
+                },
+                {
+                    "user_name": "girlshealth",
+                    "url": "http://facebook.com/girlshealth",
+                    "like_count": "2801"
+                },
+                {
+                    "user_name": "health.hazard.evaluation.program",
+                    "url": "http://facebook.com/health.hazard.evaluation.program",
+                    "like_count": "381"
+                },
+                {
+                    "user_name": "Healthcare.gov",
+                    "url": "http://facebook.com/Healthcare.gov",
+                    "like_count": "18510"
+                },
+                {
+                    "user_name": "HHSOWH",
+                    "url": "http://facebook.com/HHSOWH",
+                    "like_count": "15420"
+                },
+                {
+                    "user_name": "KnowStroke",
+                    "url": "http://facebook.com/KnowStroke",
+                    "like_count": "3235"
+                },
+                {
+                    "user_name": "lhncbc",
+                    "url": "http://facebook.com/lhncbc",
+                    "like_count": "52"
+                },
+                {
+                    "user_name": "MaketheKidneyConnection",
+                    "url": "http://facebook.com/MaketheKidneyConnection",
+                    "like_count": "3552"
+                },
+                {
+                    "user_name": "medicalreservecorps",
+                    "url": "http://facebook.com/medicalreservecorps",
+                    "like_count": "1406"
+                },
+                {
+                    "user_name": "NationalEyeHealthEducationProgram",
+                    "url": "http://facebook.com/NationalEyeHealthEducationProgram",
+                    "like_count": "1112"
+                },
+                {
+                    "user_name": "nationalhealthservicecorps",
+                    "url": "http://facebook.com/nationalhealthservicecorps",
+                    "like_count": "8909"
+                },
+                {
+                    "user_name": "nationallibraryofmedicine",
+                    "url": "http://facebook.com/nationallibraryofmedicine",
+                    "like_count": "16939"
+                },
+                {
+                    "user_name": "ncbi.nlm",
+                    "url": "http://facebook.com/ncbi.nlm",
+                    "like_count": "42982"
+                },
+                {
+                    "user_name": "nccam",
+                    "url": "http://facebook.com/nccam",
+                    "like_count": "10384"
+                },
+                {
+                    "user_name": "ncihints",
+                    "url": "http://facebook.com/ncihints",
+                    "like_count": "334"
+                },
+                {
+                    "user_name": "NCImedia",
+                    "url": "http://facebook.com/NCImedia",
+                    "like_count": "3562"
+                }
+            ],
+            "github": [
+                {
+                    "ID": "388",
+                    "agency_id": "hhs",
+                    "type": "github",
+                    "url": "http://github.com/hhs",
+                    "user_name": "hhs",
+                    "follower_count": null,
+                    "like_count": null,
+                    "repo_count": "2"
+                }
+            ],
+            "data_api": [
+                {
+                    "name": "HealthCare Finder API (http://healthdata.gov/data/dataset/healthcare-finder-api)",
+                    "description": "All of the data used on the Finder.HealthCare.gov web application is available through the API. There are multiple collections of data available through the API including Public Options Data, Individual and Family Health Insurance Options Data, and Small Group Insurance Options Data. Visit http://www.hhs.gov/digitalstrategy/open-data/index.html to learn more about this API."
+                },
+                {
+                    "name": "HealthData.gov Catalog API (http://healthdata.gov/catalog-api)",
+                    "description": "The HealthData.gov API is used to provide software developers with programmatic access to the contents of our data catalog. The API can be used to find recently added datasets, to search the catalog, to download the contents of the catalog for analysis, or to build a new data catalog tool. Visit http://www.healthdata.gov/catalog-api to  learn more about this API."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Medicare.gov (http://www.medicare.gov/)",
+                    "description": "Medicare.gov is the consumer website for Medicare beneficiaries, caregivers, and advocates. The implementation of responsive design on this site allows us to support traditional desktop PCs, tablets, and smartphones all from one URL and code base. Learn more about the redesign process here: http://www.hhs.gov/digitalstrategy/mobile/medicare-responsive-design.html We have made the responsive design code available to the public here: http://www.hhs.gov/digitalstrategy/blog/2012/10/medicare-assets.html"
+                },
+                {
+                    "name": "HHS Digital Strategy Site (http://www.hhs.gov/digitalstrategy)",
+                    "description": "HHS uses this website to engage the public, report progress on the implementation of the Digital Government Strategy, showcase digital strategy best practices, and test new technology and tools. Visit http://www.hhs.gov/digitalstrategy/ to learn more."
+                }
+            ],
+            "facebook_account_count": 43,
+            "facebook_like_count": 597741,
+            "twitter_account_count": 36,
+            "twitter_follower_count": 1274096,
+            "github_account_count": 1,
+            "github_repo_count": 2
+        },
+        {
+            "agency_id": "hud",
+            "name": "Department of Housing and Urban Development (HUD)",
+            "url": "http://www.hud.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/hud.png",
+            "digital_strategy_html": "http://www.hud.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.hud.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.hud.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "FannieMaeHelp",
+                    "url": "http://twitter.com/FannieMaeHelp",
+                    "follower_count": "2061"
+                },
+                {
+                    "user_name": "farmermacnews",
+                    "url": "http://twitter.com/farmermacnews",
+                    "follower_count": "92"
+                },
+                {
+                    "user_name": "FreddieMac",
+                    "url": "http://twitter.com/FreddieMac",
+                    "follower_count": "10188"
+                },
+                {
+                    "user_name": "HUDnews",
+                    "url": "http://twitter.com/HUDnews",
+                    "follower_count": "39581"
+                },
+                {
+                    "user_name": "HUDUSERNEWS",
+                    "url": "http://twitter.com/HUDUSERNEWS",
+                    "follower_count": "2604"
+                },
+                {
+                    "user_name": "novedadesdehud",
+                    "url": "http://twitter.com/novedadesdehud",
+                    "follower_count": "681"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "106467849390602",
+                    "url": "http://facebook.com/106467849390602",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "183685747712",
+                    "url": "http://facebook.com/183685747712",
+                    "like_count": "623"
+                },
+                {
+                    "user_name": "EspanolHUD",
+                    "url": "http://facebook.com/EspanolHUD",
+                    "like_count": "1603"
+                },
+                {
+                    "user_name": "farmermacnews",
+                    "url": "http://facebook.com/farmermacnews",
+                    "like_count": "174"
+                },
+                {
+                    "user_name": "FreddieMacCareers",
+                    "url": "http://facebook.com/FreddieMacCareers",
+                    "like_count": "804"
+                },
+                {
+                    "user_name": "HUD",
+                    "url": "http://facebook.com/HUD",
+                    "like_count": "30510"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "HUD User ",
+                    "description": "HUD USER provides interested researchers with access to the original data sets generated by PD&R-sponsored data collection efforts, including the American Housing Survey, HUD median family income limits, as well as microdata from research initiatives on topics such as housing discrimination, the HUD-insured multifamily housing stock, and the public housing population."
+                },
+                {
+                    "name": "Low Rent Apartment Search ",
+                    "description": "The government gives funds directly to apartment owners, who lower the rents they charge low-income tenants. You can find low-rent apartments for senior citizens and people with disabilities, as well as for families and individuals."
+                },
+                {
+                    "name": "Fair Market Rents ",
+                    "description": "The Fair market rents (FMR) and Income limits data app will provide users the ability to easily obtain statistics for FMR and income limits by their present or other locations."
+                },
+                {
+                    "name": "PD&R Edge",
+                    "description": "Provides access to PD&R's on-line magazine \"the Edge\". TheEdgeis an online magazine providing news, a message from the Assistant Secretary, and a wide range of information on housing and community development issues, regulations, and research that is updated biweekly.The Edgeis available on Apple iOS and Android powered smartphones.ThePD&R EdgeApp directs users to the PD&R mobile webpage where up- to -date content can be accessed. The app allows users to share content on social media networks like Facebook and Twitter, and via email."
+                },
+                {
+                    "name": "Public Housing (PHA) Contact",
+                    "description": "View contact information for Public Housing Agencies in your city and state "
+                },
+                {
+                    "name": "Enterprise GIS",
+                    "description": "Data is a key component to any location-based application. Enterprise GIS aims to remove data acquisition, integration, and maintenance obstacles for geo-developers by providing access to premium HUD data sets."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Housing Counselor ",
+                    "description": "HUD sponsors housing counseling agencies throughout the country that can provide advice on buying a home, renting, defaults, foreclosures, and credit issues. This app allows you to select a list of agencies for each state below. You may search more specifically for areverse mortgage counseloror if you are facing foreclosure, search for aforeclosure avoidance counselor."
+                },
+                {
+                    "name": "File a Fair Housing Complaint ",
+                    "description": "Federal law prohibits housing discrimination based on your race, color, national origin, religion, sex, familial status, or disability. By creating a mobile app for the HUD Form 903, FHEO will expand the ability to reach anyone that feels that their civil rights have been violated and have them submit a fair housing complaint easily and confidentially."
+                },
+                {
+                    "name": "FHEO HUD.gov mobile adaptive web content",
+                    "description": "Expanding access to Fair Housing an"
+                },
+                {
+                    "name": "Housing Discrimination Investigative Checklist",
+                    "description": "Developing and updating the design of the FHEO investigative checklist that is used by FHEO investigative resources."
+                },
+                {
+                    "name": "HUDMaps",
+                    "description": "HUD has developed a number of Geospatial Information Systems (GIS) that are currently available on the web and are listed at http://egis.hud.gov/. The HUDMap tool allows HUD Employees and Contractors to pull information from various internal and external sources to assist programmatic and disaster response projects. HUDMaps access is being expanded to provide for mobile device capabilities."
+                },
+                {
+                    "name": "GMP Monitoring Exhibits Handbook",
+                    "description": "The CPD Monitoring Handbook includes all programs and technical functions for which CPD Field staff have monitoring responsibilities."
+                }
+            ],
+            "facebook_account_count": 6,
+            "facebook_like_count": 33714,
+            "twitter_account_count": 6,
+            "twitter_follower_count": 55207,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "justice",
+            "name": "Department of Justice (DOJ)",
+            "url": "http://www.justice.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/justice.png",
+            "digital_strategy_html": "http://www.justice.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.justice.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.justice.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "civilrights",
+                    "url": "http://twitter.com/civilrights",
+                    "follower_count": "6017"
+                },
+                {
+                    "user_name": "FBIPressOffice",
+                    "url": "http://twitter.com/FBIPressOffice",
+                    "follower_count": "510414"
+                },
+                {
+                    "user_name": "TheJusticeDept",
+                    "url": "http://twitter.com/TheJusticeDept",
+                    "follower_count": "534889"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "DOJ",
+                    "url": "http://facebook.com/DOJ",
+                    "like_count": "44906"
+                },
+                {
+                    "user_name": "FBI",
+                    "url": "http://facebook.com/FBI",
+                    "like_count": "313000"
+                },
+                {
+                    "user_name": "StopBullying.Gov",
+                    "url": "http://facebook.com/StopBullying.Gov",
+                    "like_count": "49478"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "ATF Trace Data Report",
+                    "description": "A key component of the Bureau of Alcohol, Tobacco, Firearms and Explosives’ (ATF) enforcement mission is the tracing of firearms on behalf of thousands of Federal, State, local and foreign law enforcement agencies. Firearms trace data is critically important information developed by ATF. ATF has prepared the following state-by-state reports utilizing trace data which is intended to provide the public with insight into firearms recoveries."
+                },
+                {
+                    "name": "National Sex Offender Website and Database",
+                    "description": "The Dru Sjodin National Sex Offender Public Website (NSOPW), coordinated by the U.S. Department of Justice, is a cooperative effort between jurisdictions hosting public sex offender registries (“Jurisdictions”) and the federal government and is offered free of charge to the public. These Jurisdictions include the 50 states, U.S. Territories, the District of Columbia, and participating tribes. The Website provides an advanced search tool that allows a user to submit a single national query to obtain information about sex offenders; a listing of public registry Web sites by state, territory, and tribe; and information on sexual abuse education and prevention."
+                },
+                {
+                    "name": "FOIA.gov",
+                    "description": "FOIA.gov houses annual Freedom of Information Act (FOIA) data from all agencies subject to the FOIA. This data is collected annually and available to the public as PDF reports or in various machine-readable formats on FOIA.gov."
+                },
+                {
+                    "name": "Uniform Crime Report",
+                    "description": "The Uniform Crime Reporting (UCR) Program was conceived in 1929 by the International Association of Chiefs of Police to meet a need for reliable, uniform crime statistics for the nation. In 1930, the FBI was tasked with collecting, publishing, and archiving those statistics. Today, several annual statistical publications are produced from data provided by nearly 17,000 law enforcement agencies across the United States."
+                },
+                {
+                    "name": "National Crime Victimization Survey",
+                    "description": "NCVS is the Nation's primary source of information on criminal victimization. Each year, data are obtained from a nationally representative sample of about 40,000 households comprising nearly 75,000 persons on the frequency, characteristics and consequences of criminal victimization in the United States. Each household is interviewed twice during the year. The survey enables BJS to estimate the likelihood of victimization by rape, sexual assault, robbery, assault, theft, household burglary, and motor vehicle theft for the population as a whole as well as for segments of the population such as women, the elderly, members of various racial groups, city dwellers, or other groups. The NCVS provides the largest national forum for victims to describe the impact of crime and characteristics of violent offenders."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Justice.gov",
+                    "description": "The main website of the Department of Justice"
+                },
+                {
+                    "name": "StopFraud.gov",
+                    "description": "The website of the President's Financial Fraud Task Force hosting information about the work of the task force as well as resources to about fraud - including prevention tips and where to report crimes if they occur."
+                },
+                {
+                    "name": "Civil Rights Division Report a Violation Web Resources",
+                    "description": "The Civil Rights Division enforces civil rights laws in a wide variety of contexts. This resource directs individuals on how to submit a complaint or report of a potential civil rights violation."
+                },
+                {
+                    "name": "Office on Violence Against Women Resource Map",
+                    "description": "A comprehensive list of national, state, local and tribal resources for victims of violence against women."
+                }
+            ],
+            "facebook_account_count": 3,
+            "facebook_like_count": 407384,
+            "twitter_account_count": 3,
+            "twitter_follower_count": 1051320,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "state",
+            "name": "Department of State",
+            "url": "http://www.state.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/state.png",
+            "digital_strategy_html": "http://www.state.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.state.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.state.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "abdturk",
+                    "url": "http://twitter.com/abdturk",
+                    "follower_count": "7565"
+                },
+                {
+                    "user_name": "ACSMonterrey",
+                    "url": "http://twitter.com/ACSMonterrey",
+                    "follower_count": "104"
+                },
+                {
+                    "user_name": "AFAsstSecy",
+                    "url": "http://twitter.com/AFAsstSecy",
+                    "follower_count": "5108"
+                },
+                {
+                    "user_name": "AmbasciataUSA",
+                    "url": "http://twitter.com/AmbasciataUSA",
+                    "follower_count": "9704"
+                },
+                {
+                    "user_name": "ambassadorrice",
+                    "url": "http://twitter.com/ambassadorrice",
+                    "follower_count": "252622"
+                },
+                {
+                    "user_name": "AmbJamesWarlick",
+                    "url": "http://twitter.com/AmbJamesWarlick",
+                    "follower_count": "1612"
+                },
+                {
+                    "user_name": "AmEmbTZ",
+                    "url": "http://twitter.com/AmEmbTZ",
+                    "follower_count": "2538"
+                },
+                {
+                    "user_name": "annatstate",
+                    "url": "http://twitter.com/annatstate",
+                    "follower_count": "9213"
+                },
+                {
+                    "user_name": "ARCHelsinki",
+                    "url": "http://twitter.com/ARCHelsinki",
+                    "follower_count": "371"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "101021618323",
+                    "url": "http://facebook.com/101021618323",
+                    "like_count": "2344"
+                },
+                {
+                    "user_name": "101032454198",
+                    "url": "http://facebook.com/101032454198",
+                    "like_count": "127000"
+                },
+                {
+                    "user_name": "10150128749195307",
+                    "url": "http://facebook.com/10150128749195307",
+                    "like_count": "1628"
+                },
+                {
+                    "user_name": "104690392900835",
+                    "url": "http://facebook.com/104690392900835",
+                    "like_count": "871"
+                },
+                {
+                    "user_name": "105198680666",
+                    "url": "http://facebook.com/105198680666",
+                    "like_count": "5372"
+                },
+                {
+                    "user_name": "105399191715",
+                    "url": "http://facebook.com/105399191715",
+                    "like_count": "1951"
+                },
+                {
+                    "user_name": "105986446958",
+                    "url": "http://facebook.com/105986446958",
+                    "like_count": "7110"
+                },
+                {
+                    "user_name": "108194222569430",
+                    "url": "http://facebook.com/108194222569430",
+                    "like_count": "14352"
+                },
+                {
+                    "user_name": "108981709134387",
+                    "url": "http://facebook.com/108981709134387",
+                    "like_count": "9366"
+                },
+                {
+                    "user_name": "109785199631",
+                    "url": "http://facebook.com/109785199631",
+                    "like_count": "1402"
+                },
+                {
+                    "user_name": "112371322116459",
+                    "url": "http://facebook.com/112371322116459",
+                    "like_count": "224"
+                },
+                {
+                    "user_name": "116047138409027",
+                    "url": "http://facebook.com/116047138409027",
+                    "like_count": "499"
+                },
+                {
+                    "user_name": "119190564848999",
+                    "url": "http://facebook.com/119190564848999",
+                    "like_count": "443"
+                },
+                {
+                    "user_name": "119869762156",
+                    "url": "http://facebook.com/119869762156",
+                    "like_count": "38150"
+                },
+                {
+                    "user_name": "121384077911109",
+                    "url": "http://facebook.com/121384077911109",
+                    "like_count": "19011"
+                },
+                {
+                    "user_name": "138415206219210",
+                    "url": "http://facebook.com/138415206219210",
+                    "like_count": "175"
+                },
+                {
+                    "user_name": "140095222235",
+                    "url": "http://facebook.com/140095222235",
+                    "like_count": "2686"
+                },
+                {
+                    "user_name": "141271449648",
+                    "url": "http://facebook.com/141271449648",
+                    "like_count": "1103"
+                },
+                {
+                    "user_name": "143560048536",
+                    "url": "http://facebook.com/143560048536",
+                    "like_count": "17964"
+                },
+                {
+                    "user_name": "145424508823830",
+                    "url": "http://facebook.com/145424508823830",
+                    "like_count": "718"
+                },
+                {
+                    "user_name": "146218063693",
+                    "url": "http://facebook.com/146218063693",
+                    "like_count": "4099"
+                },
+                {
+                    "user_name": "147467418636156",
+                    "url": "http://facebook.com/147467418636156",
+                    "like_count": "780"
+                },
+                {
+                    "user_name": "147599291963527",
+                    "url": "http://facebook.com/147599291963527",
+                    "like_count": "706"
+                },
+                {
+                    "user_name": "149210335803",
+                    "url": "http://facebook.com/149210335803",
+                    "like_count": "7962"
+                },
+                {
+                    "user_name": "151372664878320",
+                    "url": "http://facebook.com/151372664878320",
+                    "like_count": "6453"
+                },
+                {
+                    "user_name": "160841183603",
+                    "url": "http://facebook.com/160841183603",
+                    "like_count": "2954"
+                },
+                {
+                    "user_name": "163763323658658",
+                    "url": "http://facebook.com/163763323658658",
+                    "like_count": "2359"
+                },
+                {
+                    "user_name": "164487086904429",
+                    "url": "http://facebook.com/164487086904429",
+                    "like_count": "1131"
+                },
+                {
+                    "user_name": "166149414713",
+                    "url": "http://facebook.com/166149414713",
+                    "like_count": "17303"
+                },
+                {
+                    "user_name": "167464335667",
+                    "url": "http://facebook.com/167464335667",
+                    "like_count": "3171"
+                },
+                {
+                    "user_name": "169307843952",
+                    "url": "http://facebook.com/169307843952",
+                    "like_count": "986"
+                },
+                {
+                    "user_name": "170330008041",
+                    "url": "http://facebook.com/170330008041",
+                    "like_count": "848"
+                },
+                {
+                    "user_name": "17536414687",
+                    "url": "http://facebook.com/17536414687",
+                    "like_count": "2105"
+                },
+                {
+                    "user_name": "175454024900",
+                    "url": "http://facebook.com/175454024900",
+                    "like_count": "282"
+                },
+                {
+                    "user_name": "176655402990",
+                    "url": "http://facebook.com/176655402990",
+                    "like_count": "2371"
+                },
+                {
+                    "user_name": "176748609063",
+                    "url": "http://facebook.com/176748609063",
+                    "like_count": "4895"
+                },
+                {
+                    "user_name": "182025015040",
+                    "url": "http://facebook.com/182025015040",
+                    "like_count": "3780"
+                },
+                {
+                    "user_name": "189032241145421",
+                    "url": "http://facebook.com/189032241145421",
+                    "like_count": "6233"
+                },
+                {
+                    "user_name": "189796969657",
+                    "url": "http://facebook.com/189796969657",
+                    "like_count": "1809"
+                },
+                {
+                    "user_name": "193820180368",
+                    "url": "http://facebook.com/193820180368",
+                    "like_count": "1201"
+                },
+                {
+                    "user_name": "201886415595",
+                    "url": "http://facebook.com/201886415595",
+                    "like_count": "332"
+                },
+                {
+                    "user_name": "205756236121255",
+                    "url": "http://facebook.com/205756236121255",
+                    "like_count": "256"
+                },
+                {
+                    "user_name": "21107593266",
+                    "url": "http://facebook.com/21107593266",
+                    "like_count": "660"
+                },
+                {
+                    "user_name": "23670430956",
+                    "url": "http://facebook.com/23670430956",
+                    "like_count": "1848"
+                },
+                {
+                    "user_name": "39878083109",
+                    "url": "http://facebook.com/39878083109",
+                    "like_count": "2762"
+                },
+                {
+                    "user_name": "39975169920",
+                    "url": "http://facebook.com/39975169920",
+                    "like_count": "125000"
+                },
+                {
+                    "user_name": "400082475184",
+                    "url": "http://facebook.com/400082475184",
+                    "like_count": "453"
+                },
+                {
+                    "user_name": "41210366797",
+                    "url": "http://facebook.com/41210366797",
+                    "like_count": "6151"
+                },
+                {
+                    "user_name": "49414696203",
+                    "url": "http://facebook.com/49414696203",
+                    "like_count": "382"
+                },
+                {
+                    "user_name": "56632622313",
+                    "url": "http://facebook.com/56632622313",
+                    "like_count": "40384"
+                },
+                {
+                    "user_name": "61299260993",
+                    "url": "http://facebook.com/61299260993",
+                    "like_count": "4267"
+                },
+                {
+                    "user_name": "64479076823",
+                    "url": "http://facebook.com/64479076823",
+                    "like_count": "773"
+                },
+                {
+                    "user_name": "65451391270",
+                    "url": "http://facebook.com/65451391270",
+                    "like_count": "655"
+                },
+                {
+                    "user_name": "66357326382",
+                    "url": "http://facebook.com/66357326382",
+                    "like_count": "6400"
+                },
+                {
+                    "user_name": "67014122312",
+                    "url": "http://facebook.com/67014122312",
+                    "like_count": "6218"
+                },
+                {
+                    "user_name": "72657757396",
+                    "url": "http://facebook.com/72657757396",
+                    "like_count": "314"
+                },
+                {
+                    "user_name": "73531129169",
+                    "url": "http://facebook.com/73531129169",
+                    "like_count": "629"
+                },
+                {
+                    "user_name": "77252883871",
+                    "url": "http://facebook.com/77252883871",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "78472454205",
+                    "url": "http://facebook.com/78472454205",
+                    "like_count": "3176"
+                },
+                {
+                    "user_name": "78876700568",
+                    "url": "http://facebook.com/78876700568",
+                    "like_count": "891"
+                },
+                {
+                    "user_name": "82124194915",
+                    "url": "http://facebook.com/82124194915",
+                    "like_count": "7405"
+                },
+                {
+                    "user_name": "90293542586",
+                    "url": "http://facebook.com/90293542586",
+                    "like_count": "17090"
+                },
+                {
+                    "user_name": "92077582089",
+                    "url": "http://facebook.com/92077582089",
+                    "like_count": "29535"
+                },
+                {
+                    "user_name": "92088614462",
+                    "url": "http://facebook.com/92088614462",
+                    "like_count": "2999"
+                },
+                {
+                    "user_name": "92501672621",
+                    "url": "http://facebook.com/92501672621",
+                    "like_count": "2512"
+                },
+                {
+                    "user_name": "93218692247",
+                    "url": "http://facebook.com/93218692247",
+                    "like_count": "1992"
+                },
+                {
+                    "user_name": "96214753274",
+                    "url": "http://facebook.com/96214753274",
+                    "like_count": "12449"
+                },
+                {
+                    "user_name": "ACGYumri",
+                    "url": "http://facebook.com/ACGYumri",
+                    "like_count": "566"
+                },
+                {
+                    "user_name": "achanoi.usembassy",
+                    "url": "http://facebook.com/achanoi.usembassy",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "ACNoviPazar",
+                    "url": "http://facebook.com/ACNoviPazar",
+                    "like_count": "651"
+                },
+                {
+                    "user_name": "acnovisad",
+                    "url": "http://facebook.com/acnovisad",
+                    "like_count": "4077"
+                },
+                {
+                    "user_name": "acskopje",
+                    "url": "http://facebook.com/acskopje",
+                    "like_count": "5951"
+                },
+                {
+                    "user_name": "adana.usconsulate",
+                    "url": "http://facebook.com/adana.usconsulate",
+                    "like_count": "3389"
+                },
+                {
+                    "user_name": "airc.lahore.usconsulate",
+                    "url": "http://facebook.com/airc.lahore.usconsulate",
+                    "like_count": "1039"
+                },
+                {
+                    "user_name": "AIT.Social.Media",
+                    "url": "http://facebook.com/AIT.Social.Media",
+                    "like_count": "11971"
+                },
+                {
+                    "user_name": "AmbasciataUSA",
+                    "url": "http://facebook.com/AmbasciataUSA",
+                    "like_count": "13253"
+                },
+                {
+                    "user_name": "ambassadorrice",
+                    "url": "http://facebook.com/ambassadorrice",
+                    "like_count": "20562"
+                },
+                {
+                    "user_name": "AmCornerDEB",
+                    "url": "http://facebook.com/AmCornerDEB",
+                    "like_count": "2035"
+                },
+                {
+                    "user_name": "AmericanCenter.Alex",
+                    "url": "http://facebook.com/AmericanCenter.Alex",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "americancenternewdelhi",
+                    "url": "http://facebook.com/americancenternewdelhi",
+                    "like_count": "78801"
+                },
+                {
+                    "user_name": "AmericanCitizenServicesMonterrey",
+                    "url": "http://facebook.com/AmericanCitizenServicesMonterrey",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "americancornerlimon",
+                    "url": "http://facebook.com/americancornerlimon",
+                    "like_count": "368"
+                },
+                {
+                    "user_name": "AmericanEmbassyManama",
+                    "url": "http://facebook.com/AmericanEmbassyManama",
+                    "like_count": "4776"
+                },
+                {
+                    "user_name": "AmericanResourceCenter",
+                    "url": "http://facebook.com/AmericanResourceCenter",
+                    "like_count": "825"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "Bibliographical Metadata of the Foreign Relations of the United States Series",
+                    "description": "Raw bibliographical metadata for the nearly 500 official historical documentary volumes of U.S. foreign policy in the Foreign Relations of the United States published since 1861"
+                },
+                {
+                    "name": "aoprals.state.gov",
+                    "description": "Foreign Travel Per Diem rates"
+                },
+                {
+                    "name": "J1 Visa Exchange Visitor Program website",
+                    "description": "Provide accessible, plain-language information on the J1 visa Exchange Visitor Program"
+                },
+                {
+                    "name": "ForeignAssistance.gov",
+                    "description": "The goal of the Foreign Assistance Dashboard is to make all U.S. Government foreign assistance investments available in an accessible and easy-to-understand format."
+                },
+                {
+                    "name": "Travel.State.gov",
+                    "description": "Provides an informational portal into Consular Affairs pages on international travel, passports, visa, international child abduction, and international law and policy."
+                },
+                {
+                    "name": "U.S. Passport Issuance Data",
+                    "description": "U.S. Passports Issued per Fiscal Year (2010-1996); U.S. Passports Issued per Calendar Year (1995-1974); U.S. Passport Applications Received by Fiscal Year (1986-2010); Passport Issuance by State per Fiscal Year (2007-2010)"
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Bibliographical Metadata of the Foreign Relations of the United States Series",
+                    "description": "Raw bibliographical metadata for the nearly 500 official historical documentary volumes of U.S. foreign policy in the Foreign Relations of the United States published since 1861"
+                },
+                {
+                    "name": "aoprals.state.gov",
+                    "description": "Foreign Travel Per Diem rates"
+                },
+                {
+                    "name": "Foreign Service Mobile App",
+                    "description": "The goal of this app is to serve as a learning tool to educate diverse university students (undergraduate and graduate), alumni and mid-career professionals about the various career opportunities in the Foreign Service and provide the information and resources to help them prepare for the selection and hiring processes."
+                },
+                {
+                    "name": "Usembassy.gov (450+ websites under the usembassy/usconsulate.gov domain)",
+                    "description": "Provides public affairs/diplomacy information and critical citizen services (passports, visa, and business opportunities) for in-country American citizens."
+                },
+                {
+                    "name": "J1 Visa Exchange Visitor Program website",
+                    "description": "Provide accessible, plain-language information on the J1 visa Exchange Visitor Program"
+                },
+                {
+                    "name": "ForeignAssistance.gov",
+                    "description": "The goal of the Foreign Assistance Dashboard is to make all U.S. Government foreign assistance investments available in an accessible and easy-to-understand format."
+                },
+                {
+                    "name": "U.S. Passport Issuance Data",
+                    "description": "U.S. Passports Issued per Fiscal Year (2010-1996); U.S. Passports Issued per Calendar Year (1995-1974); U.S. Passport Applications Received by Fiscal Year (1986-2010); Passport Issuance by State per Fiscal Year (2007-2010)"
+                }
+            ],
+            "facebook_account_count": 84,
+            "facebook_like_count": 747594,
+            "twitter_account_count": 9,
+            "twitter_follower_count": 288837,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "treasury",
+            "name": "Department of the Treasury",
+            "url": "http://www.treasury.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/treasury.png",
+            "digital_strategy_html": "http://www.treasury.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.treasury.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.treasury.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "eftps",
+                    "url": "http://twitter.com/eftps",
+                    "follower_count": "123"
+                },
+                {
+                    "user_name": "irsnews",
+                    "url": "http://twitter.com/irsnews",
+                    "follower_count": "32414"
+                },
+                {
+                    "user_name": "ProjectOpenData",
+                    "url": "http://twitter.com/ProjectOpenData",
+                    "follower_count": "1646"
+                },
+                {
+                    "user_name": "PublicDebt",
+                    "url": "http://twitter.com/PublicDebt",
+                    "follower_count": "718"
+                },
+                {
+                    "user_name": "RecruitmentIRS",
+                    "url": "http://twitter.com/RecruitmentIRS",
+                    "follower_count": "3050"
+                },
+                {
+                    "user_name": "usmint",
+                    "url": "http://twitter.com/usmint",
+                    "follower_count": "4986"
+                },
+                {
+                    "user_name": "usocc",
+                    "url": "http://twitter.com/usocc",
+                    "follower_count": "1641"
+                },
+                {
+                    "user_name": "ustreasurydept",
+                    "url": "http://twitter.com/ustreasurydept",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "YourVoiceAtIRS",
+                    "url": "http://twitter.com/YourVoiceAtIRS",
+                    "follower_count": "4838"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "103695769458",
+                    "url": "http://facebook.com/103695769458",
+                    "like_count": "13200"
+                },
+                {
+                    "user_name": "213254918823",
+                    "url": "http://facebook.com/213254918823",
+                    "like_count": "1197"
+                },
+                {
+                    "user_name": "IRS",
+                    "url": "http://facebook.com/IRS",
+                    "like_count": "8792"
+                },
+                {
+                    "user_name": "IRSRecruitment",
+                    "url": "http://facebook.com/IRSRecruitment",
+                    "like_count": "4365"
+                },
+                {
+                    "user_name": "IRStaxpros",
+                    "url": "http://facebook.com/IRStaxpros",
+                    "like_count": "18130"
+                },
+                {
+                    "user_name": "unitedstatesmint",
+                    "url": "http://facebook.com/unitedstatesmint",
+                    "like_count": "13200"
+                },
+                {
+                    "user_name": "ustreasury",
+                    "url": "http://facebook.com/ustreasury",
+                    "like_count": "9023"
+                },
+                {
+                    "user_name": "YourVoiceAtIRS",
+                    "url": "http://facebook.com/YourVoiceAtIRS",
+                    "like_count": "1898"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "Wholesale Securities Services (WSS) ",
+                    "description": "Provides information on recent auction results (issue date, discount rate, investment rate, offer amount), upcoming auctions (auction date, issue date, offer amount), and savings bond rates."
+                },
+                {
+                    "name": "Summary Debt Accounting Services",
+                    "description": "Gives users the ability to find the total public debt outstanding for a specific day or date range. The data components will be useful to feed the Federal Reserve System's FRED."
+                },
+                {
+                    "name": "OCC Derviatives and Capital Markets Quarterly Reports",
+                    "description": "Each quarter, based on information from the Reports of Condition and Income (call reports) filed by all insured U.S. commercial banks and trust companies as well as other published financial data, the Office of the Comptroller of the Currency prepares a report. That report describes what the call report information discloses about banks' derivative activities"
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "IRS2Go (English)",
+                    "description": "A smartphone application that lets you interact with the IRS using your mobile device. IRS continues innovation with its award-winning mobile application, IRS2Go. The new version will have improved access to IRS’s online services and may include additional features such as include “Pay your tax bill”, “Learn about your notice”, “Find a form”, “Find an eFile provider”, “Find a practitioner”, “Find a VITA Site nearest you”."
+                }
+            ],
+            "facebook_account_count": 8,
+            "facebook_like_count": 69805,
+            "twitter_account_count": 9,
+            "twitter_follower_count": 49416,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "dot",
+            "name": "Department of Transportation (DOT)",
+            "url": "http://www.dot.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/dot.png",
+            "digital_strategy_html": "http://www.dot.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.dot.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.dot.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "faanews",
+                    "url": "http://twitter.com/faanews",
+                    "follower_count": "29686"
+                },
+                {
+                    "user_name": "FAASafetyBrief",
+                    "url": "http://twitter.com/FAASafetyBrief",
+                    "follower_count": "11576"
+                },
+                {
+                    "user_name": "FTA_DOT",
+                    "url": "http://twitter.com/FTA_DOT",
+                    "follower_count": "12363"
+                },
+                {
+                    "user_name": "RITA_DOT",
+                    "url": "http://twitter.com/RITA_DOT",
+                    "follower_count": "2284"
+                },
+                {
+                    "user_name": "TransportStats",
+                    "url": "http://twitter.com/TransportStats",
+                    "follower_count": "6402"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "175380479155058",
+                    "url": "http://facebook.com/175380479155058",
+                    "like_count": "2313"
+                },
+                {
+                    "user_name": "dotrita",
+                    "url": "http://facebook.com/dotrita",
+                    "like_count": "1559"
+                },
+                {
+                    "user_name": "faa",
+                    "url": "http://facebook.com/faa",
+                    "like_count": "22260"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": " Federal Railroad Administration 10 Year Accident Reports ",
+                    "description": "The 10-Year Accident/Incident Report, one of the most requested reports on the Federal Railroad Administration’s website, provides historical statistics on rail-related train accidents, injuries and fatalities, highway-rail crossing collisions and operational information.  We will create an API to render all this information in a user-interactive dashboard program. "
+                },
+                {
+                    "name": "SaferCar.gov  Recall and Complaint Data ",
+                    "description": "The National Highway Transportation Safety Administration will make vehicle safety data available in API format. Specifically, we will create an API with safety-related complaints about motor vehicles and motor vehicle equipment, including vehicle make, model and year. We will also create an API with recall data for vehicle products that have safety-related defects or do not comply with federal motor vehicle safety standards."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "SaferCar App",
+                    "description": "DOT will create a user-friendly iOS smartphone product to streamline access to information on SaferCar.gov, including vehicle 5-star safety ratings; vehicle defects; and the Child Safety Seat Locator. The app will also allow consumers to search and submit vehicle complaints"
+                },
+                {
+                    "name": "Grade Crossing App",
+                    "description": "The Federal Railroad Administration is developing an application that will provide users with mobile access to Grade Crossing Information. Users will be able to visualize the rail grade crossings on a map interface, find their own location on the map, and view crossing specific information such as Accident Data and Inventory Reports from FRA’s safety data website. "
+                }
+            ],
+            "facebook_account_count": 3,
+            "facebook_like_count": 26132,
+            "twitter_account_count": 5,
+            "twitter_follower_count": 62311,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "fcc",
+            "name": "Federal Communications Commission (FCC)",
+            "url": "http://www.fcc.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/fcc.png",
+            "digital_strategy_html": "http://www.fcc.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.fcc.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.fcc.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "fcc",
+                    "url": "http://twitter.com/fcc",
+                    "follower_count": "522743"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "FCC",
+                    "url": "http://facebook.com/FCC",
+                    "like_count": "11694"
+                }
+            ],
+            "github": [
+                {
+                    "ID": "947",
+                    "agency_id": "fcc",
+                    "type": "github",
+                    "url": "http://github.com/fcc",
+                    "user_name": "fcc",
+                    "follower_count": null,
+                    "like_count": null,
+                    "repo_count": "23"
+                }
+            ],
+            "data_api": [
+                {
+                    "name": "Broadcast Public Inspection File",
+                    "description": "For decades, the public file for each station has been kept at the station’s main studio in paper form (or more recently in electronic form at some stations) and made available during normal business hours. Relying on the advantages of current technology, however, the Commission has now changed its rules to require almost all of this public file information for television stations to be posted online at this site."
+                },
+                {
+                    "name": "License View",
+                    "description": "Spectrum is a national resource. License View provides information on over 3 million FCC issued licenses for use of the nation's airwaves and other purposes."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "fcc.gov",
+                    "description": "The entire fcc.gov experience will be a mobile ready application this fall."
+                },
+                {
+                    "name": "National Broadband map",
+                    "description": "The National Broadband Map (NBM) is a searchable and interactive website that allows users to view broadband availability across every neighborhood in the United States. The NBM was created by the National Telecommunications and Information Administration (NTIA), in collaboration with the Federal Communications Commission (FCC), and in partnership with 50 states, five territories and the District of Columbia. The NBM is part of NTIA's State Broadband Initiative. The NBM is updated approximately every six months and was first published on February 17, 2011."
+                }
+            ],
+            "facebook_account_count": 1,
+            "facebook_like_count": 11694,
+            "twitter_account_count": 1,
+            "twitter_follower_count": 522743,
+            "github_account_count": 1,
+            "github_repo_count": 23
+        },
+        {
+            "agency_id": "ferc",
+            "name": "Federal Energy Regulatory Commission (FERC)",
+            "url": "http://www.ferc.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/ferc.png",
+            "digital_strategy_html": "http://www.ferc.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.ferc.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.ferc.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "ferc",
+                    "url": "http://twitter.com/ferc",
+                    "follower_count": "4390"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "ferc.gov",
+                    "url": "http://facebook.com/ferc.gov",
+                    "like_count": "621"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "Decisions and Notices",
+                    "description": "Provides a monthly collection of Delegated Orders, Notices, and Commission Decisions from Commission Meetings or Notational Voting arranged by date."
+                },
+                {
+                    "name": "eTariff",
+                    "description": "Allows for tariffs, tariff revisions and rate change applications to be filed electronically in the manner prescribed by Order No. 714. The affected regulated entities are:  •\tPublic utilities and Power Marketing Administrations under Parts 35 and 300;  •\tNatural gas pipelines under Parts 154 and 284;  •\tIntrastate gas pipelines under Part 284; and  •\tOil pipelines under Part 341.  "
+                },
+                {
+                    "name": "eLibrary",
+                    "description": "eLibrary is a records information system that contains:  1.\tElectronic versions of documents issued by FERC from 1989-Present;  2.\tDocuments received and issued by FERC: a.\tA description of documents from 1981-Present;  b.\tMicrofilm and aperture cards of documents for 1981-1995;  c.\tScanned images of paper documents from 1995-Present; and  d.\tNative files electronically submitted from November 2000-Present "
+                },
+                {
+                    "name": "eService",
+                    "description": "Provides users with official mailing list or service list for a docketed proceeding."
+                },
+                {
+                    "name": "Electric Quarterly Reports (EQR)",
+                    "description": "Allows users to access data submitted by utilities and power marketers. Access is achieved through the following means: 1. Download Spreadsheets - Contract and transaction data by company by quarter in a structure similar to the one used for data import.  2. Summary Reports - Short summaries of each company's EQR filings (beginning Q1 2005) identifying the products they sell, the customers they sell to and the control areas where deliveries are made.  3. Filing Inquiries - EQR data can be retrieved using standard queries which can be customized by the user.  4. Selective Filings Download - Retrieves data on multiple companies and quarters with one request. Processed overnight and sent via email the next day.   5. Download Database - Provides for the download of the full EQR database. It should be used only by advanced users with several gigabytes of disk space. "
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Decisions and Notices",
+                    "description": "Provides a monthly collection of Delegated Orders, Notices, and Commission Decisions from Commission Meetings or Notational Voting arranged by date."
+                },
+                {
+                    "name": "What’s New",
+                    "description": "The “What’s New” RSS feed provides news and information details about the events at FERC."
+                },
+                {
+                    "name": "eSubscription",
+                    "description": "Users subscribe or ‘sign up’ for specific dockets and are notified via email about future correspondence. Users have immediate access to the correspondence or documents in eLibrary."
+                },
+                {
+                    "name": "eFiling",
+                    "description": "Allows users to electronically submit qualified documents to FERC in lieu of paper filings."
+                },
+                {
+                    "name": "eRegistration",
+                    "description": "eRegistration provides the FERC customer an easy-to-use entry point to do business with all FERC Online applications. Think of eRegistration as a form of membership. By registering, the user will receive a single user id and password that allows them to transact all of their business with FERC.   eRegistration is valuable to any person who transacts business with the FERC on behalf of themselves or another organization (e.g. companies or corporations). It provides authentication support to the FERC Online applications that ensures safe and secure transactions, thereby protecting the integrity of your data. "
+                },
+                {
+                    "name": "Electric Quarterly Reports (EQR)",
+                    "description": "Allows all public utilities and power marketers to file EQRs for the most recent calendar quarter. The filings must summarize contractual terms and conditions for:  Market-based power sales,  Cost-based power sales, and  Transmission service.  "
+                }
+            ],
+            "facebook_account_count": 1,
+            "facebook_like_count": 621,
+            "twitter_account_count": 1,
+            "twitter_follower_count": 4390,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "nasa",
+            "name": "National Aeronautics and Space Administration (NASA)",
+            "url": "http://www.nasa.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/nasa.png",
+            "digital_strategy_html": "http://www.nasa.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.nasa.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.nasa.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "AsteroidWatch",
+                    "url": "http://twitter.com/AsteroidWatch",
+                    "follower_count": "973763"
+                },
+                {
+                    "user_name": "astroacaba",
+                    "url": "http://twitter.com/astroacaba",
+                    "follower_count": "16139"
+                },
+                {
+                    "user_name": "AstroCoastie",
+                    "url": "http://twitter.com/AstroCoastie",
+                    "follower_count": "9967"
+                },
+                {
+                    "user_name": "AstroIronMike",
+                    "url": "http://twitter.com/AstroIronMike",
+                    "follower_count": "23497"
+                },
+                {
+                    "user_name": "AstroMarshburn",
+                    "url": "http://twitter.com/AstroMarshburn",
+                    "follower_count": "15287"
+                },
+                {
+                    "user_name": "AstroSamantha",
+                    "url": "http://twitter.com/AstroSamantha",
+                    "follower_count": "16736"
+                },
+                {
+                    "user_name": "Astro_127",
+                    "url": "http://twitter.com/Astro_127",
+                    "follower_count": "48369"
+                },
+                {
+                    "user_name": "astro_aggie",
+                    "url": "http://twitter.com/astro_aggie",
+                    "follower_count": "22442"
+                },
+                {
+                    "user_name": "Astro_Box",
+                    "url": "http://twitter.com/Astro_Box",
+                    "follower_count": "21268"
+                },
+                {
+                    "user_name": "Astro_Cady",
+                    "url": "http://twitter.com/Astro_Cady",
+                    "follower_count": "27263"
+                },
+                {
+                    "user_name": "Astro_Clay",
+                    "url": "http://twitter.com/Astro_Clay",
+                    "follower_count": "26788"
+                },
+                {
+                    "user_name": "Astro_Doug",
+                    "url": "http://twitter.com/Astro_Doug",
+                    "follower_count": "9265"
+                },
+                {
+                    "user_name": "Astro_Ferg",
+                    "url": "http://twitter.com/Astro_Ferg",
+                    "follower_count": "13215"
+                },
+                {
+                    "user_name": "Astro_Flow",
+                    "url": "http://twitter.com/Astro_Flow",
+                    "follower_count": "35313"
+                },
+                {
+                    "user_name": "Astro_Jeff",
+                    "url": "http://twitter.com/Astro_Jeff",
+                    "follower_count": "20277"
+                },
+                {
+                    "user_name": "astro_luca",
+                    "url": "http://twitter.com/astro_luca",
+                    "follower_count": "6439"
+                },
+                {
+                    "user_name": "Astro_Mike",
+                    "url": "http://twitter.com/Astro_Mike",
+                    "follower_count": "1258867"
+                },
+                {
+                    "user_name": "Astro_Nicholas",
+                    "url": "http://twitter.com/Astro_Nicholas",
+                    "follower_count": "15092"
+                },
+                {
+                    "user_name": "Astro_Nicole",
+                    "url": "http://twitter.com/Astro_Nicole",
+                    "follower_count": "111583"
+                },
+                {
+                    "user_name": "astro_Pettit",
+                    "url": "http://twitter.com/astro_Pettit",
+                    "follower_count": "13751"
+                },
+                {
+                    "user_name": "Astro_Rex",
+                    "url": "http://twitter.com/Astro_Rex",
+                    "follower_count": "9574"
+                },
+                {
+                    "user_name": "Astro_Ron",
+                    "url": "http://twitter.com/Astro_Ron",
+                    "follower_count": "92273"
+                },
+                {
+                    "user_name": "Astro_Sandy",
+                    "url": "http://twitter.com/Astro_Sandy",
+                    "follower_count": "27268"
+                },
+                {
+                    "user_name": "Astro_Taz",
+                    "url": "http://twitter.com/Astro_Taz",
+                    "follower_count": "12375"
+                },
+                {
+                    "user_name": "astro_tim",
+                    "url": "http://twitter.com/astro_tim",
+                    "follower_count": "21826"
+                },
+                {
+                    "user_name": "Astro_TJ",
+                    "url": "http://twitter.com/Astro_TJ",
+                    "follower_count": "41223"
+                },
+                {
+                    "user_name": "Astro_Wheels",
+                    "url": "http://twitter.com/Astro_Wheels",
+                    "follower_count": "110680"
+                },
+                {
+                    "user_name": "CassiniSaturn",
+                    "url": "http://twitter.com/CassiniSaturn",
+                    "follower_count": "250430"
+                },
+                {
+                    "user_name": "chandraxray",
+                    "url": "http://twitter.com/chandraxray",
+                    "follower_count": "27214"
+                },
+                {
+                    "user_name": "Cmdr_Hadfield",
+                    "url": "http://twitter.com/Cmdr_Hadfield",
+                    "follower_count": "236726"
+                },
+                {
+                    "user_name": "Commercial_Crew",
+                    "url": "http://twitter.com/Commercial_Crew",
+                    "follower_count": "9060"
+                },
+                {
+                    "user_name": "DESERT_RATS",
+                    "url": "http://twitter.com/DESERT_RATS",
+                    "follower_count": "28785"
+                },
+                {
+                    "user_name": "EarthVitalSigns",
+                    "url": "http://twitter.com/EarthVitalSigns",
+                    "follower_count": "54517"
+                },
+                {
+                    "user_name": "ISSCASIS",
+                    "url": "http://twitter.com/ISSCASIS",
+                    "follower_count": "1980"
+                },
+                {
+                    "user_name": "ISS_NatLab",
+                    "url": "http://twitter.com/ISS_NatLab",
+                    "follower_count": "0"
+                },
+                {
+                    "user_name": "ISS_Research",
+                    "url": "http://twitter.com/ISS_Research",
+                    "follower_count": "30909"
+                },
+                {
+                    "user_name": "J2XEngine",
+                    "url": "http://twitter.com/J2XEngine",
+                    "follower_count": "1684"
+                },
+                {
+                    "user_name": "KSC_MOCOP",
+                    "url": "http://twitter.com/KSC_MOCOP",
+                    "follower_count": "8348"
+                },
+                {
+                    "user_name": "lcross_nasa",
+                    "url": "http://twitter.com/lcross_nasa",
+                    "follower_count": "27698"
+                },
+                {
+                    "user_name": "lori_garver",
+                    "url": "http://twitter.com/lori_garver",
+                    "follower_count": "26592"
+                },
+                {
+                    "user_name": "LRO_NASA",
+                    "url": "http://twitter.com/LRO_NASA",
+                    "follower_count": "109109"
+                },
+                {
+                    "user_name": "marscuriosity",
+                    "url": "http://twitter.com/marscuriosity",
+                    "follower_count": "1265431"
+                },
+                {
+                    "user_name": "MarsPhoenix",
+                    "url": "http://twitter.com/MarsPhoenix",
+                    "follower_count": "244095"
+                },
+                {
+                    "user_name": "MarsRovers",
+                    "url": "http://twitter.com/MarsRovers",
+                    "follower_count": "179183"
+                },
+                {
+                    "user_name": "nasa",
+                    "url": "http://twitter.com/nasa",
+                    "follower_count": "3453324"
+                },
+                {
+                    "user_name": "nasaames",
+                    "url": "http://twitter.com/nasaames",
+                    "follower_count": "54491"
+                },
+                {
+                    "user_name": "NASABeAMartian",
+                    "url": "http://twitter.com/NASABeAMartian",
+                    "follower_count": "2351"
+                },
+                {
+                    "user_name": "nasadryden",
+                    "url": "http://twitter.com/nasadryden",
+                    "follower_count": "35485"
+                },
+                {
+                    "user_name": "NASAenvcomm",
+                    "url": "http://twitter.com/NASAenvcomm",
+                    "follower_count": "2419"
+                },
+                {
+                    "user_name": "NASAFermi",
+                    "url": "http://twitter.com/NASAFermi",
+                    "follower_count": "13706"
+                },
+                {
+                    "user_name": "nasaglenn",
+                    "url": "http://twitter.com/nasaglenn",
+                    "follower_count": "17089"
+                },
+                {
+                    "user_name": "NASAGoddard",
+                    "url": "http://twitter.com/NASAGoddard",
+                    "follower_count": "71070"
+                },
+                {
+                    "user_name": "nasagogblog",
+                    "url": "http://twitter.com/nasagogblog",
+                    "follower_count": "869"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "106757492152",
+                    "url": "http://facebook.com/106757492152",
+                    "like_count": "10854"
+                },
+                {
+                    "user_name": "112998395413629",
+                    "url": "http://facebook.com/112998395413629",
+                    "like_count": "17160"
+                },
+                {
+                    "user_name": "125275167524338",
+                    "url": "http://facebook.com/125275167524338",
+                    "like_count": "16065"
+                },
+                {
+                    "user_name": "133468870046835",
+                    "url": "http://facebook.com/133468870046835",
+                    "like_count": "14111"
+                },
+                {
+                    "user_name": "134512156591701",
+                    "url": "http://facebook.com/134512156591701",
+                    "like_count": "16702"
+                },
+                {
+                    "user_name": "154478180006",
+                    "url": "http://facebook.com/154478180006",
+                    "like_count": "16942"
+                },
+                {
+                    "user_name": "171829429505534",
+                    "url": "http://facebook.com/171829429505534",
+                    "like_count": "10319"
+                },
+                {
+                    "user_name": "176847372362331",
+                    "url": "http://facebook.com/176847372362331",
+                    "like_count": "3400"
+                },
+                {
+                    "user_name": "220001241399130",
+                    "url": "http://facebook.com/220001241399130",
+                    "like_count": "2871"
+                },
+                {
+                    "user_name": "25618454345",
+                    "url": "http://facebook.com/25618454345",
+                    "like_count": "11894"
+                },
+                {
+                    "user_name": "33527980284",
+                    "url": "http://facebook.com/33527980284",
+                    "like_count": "42592"
+                },
+                {
+                    "user_name": "chandraxrayobservatory",
+                    "url": "http://facebook.com/chandraxrayobservatory",
+                    "like_count": "26800"
+                },
+                {
+                    "user_name": "EOSAura",
+                    "url": "http://facebook.com/EOSAura",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "EPOXI",
+                    "url": "http://facebook.com/EPOXI",
+                    "like_count": "7759"
+                },
+                {
+                    "user_name": "HubbleTelescope",
+                    "url": "http://facebook.com/HubbleTelescope",
+                    "like_count": "64701"
+                },
+                {
+                    "user_name": "ISS",
+                    "url": "http://facebook.com/ISS",
+                    "like_count": "107000"
+                },
+                {
+                    "user_name": "J2XEngine",
+                    "url": "http://facebook.com/J2XEngine",
+                    "like_count": "4237"
+                },
+                {
+                    "user_name": "JunoJupiter",
+                    "url": "http://facebook.com/JunoJupiter",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "LoriGarver",
+                    "url": "http://facebook.com/LoriGarver",
+                    "like_count": "15015"
+                },
+                {
+                    "user_name": "MagMultiScale",
+                    "url": "http://facebook.com/MagMultiScale",
+                    "like_count": "3854"
+                },
+                {
+                    "user_name": "mars.rovers",
+                    "url": "http://facebook.com/mars.rovers",
+                    "like_count": "43556"
+                },
+                {
+                    "user_name": "MarsCuriosity",
+                    "url": "http://facebook.com/MarsCuriosity",
+                    "like_count": "478000"
+                },
+                {
+                    "user_name": "messenger.mission",
+                    "url": "http://facebook.com/messenger.mission",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "nasa",
+                    "url": "http://facebook.com/nasa",
+                    "like_count": "2"
+                },
+                {
+                    "user_name": "NASA.AMO",
+                    "url": "http://facebook.com/NASA.AMO",
+                    "like_count": "3060"
+                },
+                {
+                    "user_name": "NASA.DRATS",
+                    "url": "http://facebook.com/NASA.DRATS",
+                    "like_count": "10068"
+                },
+                {
+                    "user_name": "NASA.GSFC",
+                    "url": "http://facebook.com/NASA.GSFC",
+                    "like_count": "74811"
+                },
+                {
+                    "user_name": "NASA.ISRU",
+                    "url": "http://facebook.com/NASA.ISRU",
+                    "like_count": "5730"
+                },
+                {
+                    "user_name": "NASA.Landsat",
+                    "url": "http://facebook.com/NASA.Landsat",
+                    "like_count": "6546"
+                },
+                {
+                    "user_name": "NASA.Little.SDO",
+                    "url": "http://facebook.com/NASA.Little.SDO",
+                    "like_count": "49880"
+                },
+                {
+                    "user_name": "NASA.Rain",
+                    "url": "http://facebook.com/NASA.Rain",
+                    "like_count": "4683"
+                },
+                {
+                    "user_name": "NASA.STI.Program",
+                    "url": "http://facebook.com/NASA.STI.Program",
+                    "like_count": "7935"
+                },
+                {
+                    "user_name": "nasaames",
+                    "url": "http://facebook.com/nasaames",
+                    "like_count": "40591"
+                },
+                {
+                    "user_name": "nasacc",
+                    "url": "http://facebook.com/nasacc",
+                    "like_count": "5536"
+                },
+                {
+                    "user_name": "NASAcio",
+                    "url": "http://facebook.com/NASAcio",
+                    "like_count": "10449"
+                },
+                {
+                    "user_name": "NASAEarthObservatory",
+                    "url": "http://facebook.com/NASAEarthObservatory",
+                    "like_count": "101000"
+                },
+                {
+                    "user_name": "NASAGlenn",
+                    "url": "http://facebook.com/NASAGlenn",
+                    "like_count": "17281"
+                },
+                {
+                    "user_name": "NASAHQ",
+                    "url": "http://facebook.com/NASAHQ",
+                    "like_count": "7810"
+                }
+            ],
+            "github": [
+                {
+                    "ID": "1158",
+                    "agency_id": "nasa",
+                    "type": "github",
+                    "url": "http://github.com/nasa",
+                    "user_name": "nasa",
+                    "follower_count": null,
+                    "like_count": null,
+                    "repo_count": "13"
+                }
+            ],
+            "data_api": [
+                {
+                    "name": "NASA Data API",
+                    "description": "The data.nasa.gov API allows a machine-readable interface to return metadata from the site organized by category, tag, date, or search term. We’re hoping this allows new and creative visualizations of the data resources NASA provides to the public. Additionally, it is a learning experience for us as we work to expand transparency, participation, and collaboration at NASA through new uses of technology."
+                },
+                {
+                    "name": "ISS Live API",
+                    "description": "Thousands of data points are downloaded every minute from the Station, and ISS Live! makes a broad set of that data open and accessible. Furthermore,  ISS Live! will make an application programming interface (API) available as a web service for external developers to take ISS data and put it into their own websites and mobile applications."
+                },
+                {
+                    "name": "ExoAPI",
+                    "description": "ExoAPI is an ongoing project that extends the accessibility of exoplanetary data by providing an easy to use RESTful API. ExoAPI was created during the NASA Space Apps Challenge by a team of three amazing geniuses who knew nothing about space before they started this...and still don't really. Currently the data is provided by http://exoplanetology.blogspot.com/ who in turn feeds the data from http://exoplanet.eu/. The ExoAPI team plans on extending the API to encompass a wider array of data sources and more interesting space data to reach as many programmers as possible and encourage an explosion of space data based mashups. "
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "NASA Apps Store",
+                    "description": "Provide employees and contractors with access to agency data and systems on the go."
+                },
+                {
+                    "name": "WebTADS",
+                    "description": "WebTADS Mobile is a lighter version of the desktop-based WebTADS developed to provide NASA Civil Servants with the convenience of recording time when they're not in the office or connected via VPN."
+                },
+                {
+                    "name": "Visualization Explorer",
+                    "description": "NASA Visualization Explorer, the coolest way to get stories about advanced space-based research delivered right to your iPad. A direct connection to NASA’s extraordinary fleet of research spacecraft, this app presents cutting edge research stories in an engaging and exciting format. "
+                },
+                {
+                    "name": "people.nasa.gov",
+                    "description": "NASA Enterprise Directory (NED) Search"
+                }
+            ],
+            "facebook_account_count": 38,
+            "facebook_like_count": 1259214,
+            "twitter_account_count": 53,
+            "twitter_follower_count": 9153105,
+            "github_account_count": 1,
+            "github_repo_count": 13
+        },
+        {
+            "agency_id": "archives",
+            "name": "National Archives and Records Administration (NARA)",
+            "url": "http://www.archives.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/archives.png",
+            "digital_strategy_html": "http://www.archives.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.archives.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.archives.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "ArchivesPres",
+                    "url": "http://twitter.com/ArchivesPres",
+                    "follower_count": "1178"
+                },
+                {
+                    "user_name": "atlantaarchives",
+                    "url": "http://twitter.com/atlantaarchives",
+                    "follower_count": "592"
+                },
+                {
+                    "user_name": "bushlibrary",
+                    "url": "http://twitter.com/bushlibrary",
+                    "follower_count": "6894"
+                },
+                {
+                    "user_name": "carterlibrary",
+                    "url": "http://twitter.com/carterlibrary",
+                    "follower_count": "4622"
+                },
+                {
+                    "user_name": "dferriero",
+                    "url": "http://twitter.com/dferriero",
+                    "follower_count": "2049"
+                },
+                {
+                    "user_name": "discovercivwar",
+                    "url": "http://twitter.com/discovercivwar",
+                    "follower_count": "3593"
+                },
+                {
+                    "user_name": "DocsTeach",
+                    "url": "http://twitter.com/DocsTeach",
+                    "follower_count": "1878"
+                },
+                {
+                    "user_name": "EisenhowerNews",
+                    "url": "http://twitter.com/EisenhowerNews",
+                    "follower_count": "1989"
+                },
+                {
+                    "user_name": "electoralcollge",
+                    "url": "http://twitter.com/electoralcollge",
+                    "follower_count": "2460"
+                },
+                {
+                    "user_name": "FDRLibrary",
+                    "url": "http://twitter.com/FDRLibrary",
+                    "follower_count": "1432"
+                },
+                {
+                    "user_name": "FedRegister",
+                    "url": "http://twitter.com/FedRegister",
+                    "follower_count": "4327"
+                },
+                {
+                    "user_name": "IkeandHarry2012",
+                    "url": "http://twitter.com/IkeandHarry2012",
+                    "follower_count": "455"
+                },
+                {
+                    "user_name": "JFK1962",
+                    "url": "http://twitter.com/JFK1962",
+                    "follower_count": "9"
+                },
+                {
+                    "user_name": "JFKLibrary",
+                    "url": "http://twitter.com/JFKLibrary",
+                    "follower_count": "10506"
+                },
+                {
+                    "user_name": "KCArchives",
+                    "url": "http://twitter.com/KCArchives",
+                    "follower_count": "194"
+                },
+                {
+                    "user_name": "LBJLibrary",
+                    "url": "http://twitter.com/LBJLibrary",
+                    "follower_count": "2581"
+                },
+                {
+                    "user_name": "NARAFRC",
+                    "url": "http://twitter.com/NARAFRC",
+                    "follower_count": "257"
+                },
+                {
+                    "user_name": "NARA_RecMgmt",
+                    "url": "http://twitter.com/NARA_RecMgmt",
+                    "follower_count": "2931"
+                },
+                {
+                    "user_name": "OurPresidents",
+                    "url": "http://twitter.com/OurPresidents",
+                    "follower_count": "2252"
+                },
+                {
+                    "user_name": "Reagan_Library",
+                    "url": "http://twitter.com/Reagan_Library",
+                    "follower_count": "159"
+                },
+                {
+                    "user_name": "stlouisarchives",
+                    "url": "http://twitter.com/stlouisarchives",
+                    "follower_count": "33"
+                },
+                {
+                    "user_name": "todaysdocument",
+                    "url": "http://twitter.com/todaysdocument",
+                    "follower_count": "4699"
+                },
+                {
+                    "user_name": "usnatarchives",
+                    "url": "http://twitter.com/usnatarchives",
+                    "follower_count": "13908"
+                },
+                {
+                    "user_name": "WJCLibrary",
+                    "url": "http://twitter.com/WJCLibrary",
+                    "follower_count": "3105"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "134677786611174",
+                    "url": "http://facebook.com/134677786611174",
+                    "like_count": "305"
+                },
+                {
+                    "user_name": "155262711206888",
+                    "url": "http://facebook.com/155262711206888",
+                    "like_count": "374"
+                },
+                {
+                    "user_name": "218108561585279",
+                    "url": "http://facebook.com/218108561585279",
+                    "like_count": "539"
+                },
+                {
+                    "user_name": "9538894955",
+                    "url": "http://facebook.com/9538894955",
+                    "like_count": "18199"
+                },
+                {
+                    "user_name": "archivalrecoveryteam",
+                    "url": "http://facebook.com/archivalrecoveryteam",
+                    "like_count": "2126"
+                },
+                {
+                    "user_name": "bushlibrary",
+                    "url": "http://facebook.com/bushlibrary",
+                    "like_count": "8099"
+                },
+                {
+                    "user_name": "CarterPresidentialLibrary",
+                    "url": "http://facebook.com/CarterPresidentialLibrary",
+                    "like_count": "4675"
+                },
+                {
+                    "user_name": "ClintonPresLib",
+                    "url": "http://facebook.com/ClintonPresLib",
+                    "like_count": "5331"
+                },
+                {
+                    "user_name": "fdrlibrary",
+                    "url": "http://facebook.com/fdrlibrary",
+                    "like_count": "2063"
+                },
+                {
+                    "user_name": "FederalRegister",
+                    "url": "http://facebook.com/FederalRegister",
+                    "like_count": "1837"
+                },
+                {
+                    "user_name": "FordPresidentialLibrary",
+                    "url": "http://facebook.com/FordPresidentialLibrary",
+                    "like_count": "1287"
+                },
+                {
+                    "user_name": "FordPresidentialMuseum",
+                    "url": "http://facebook.com/FordPresidentialMuseum",
+                    "like_count": "2030"
+                },
+                {
+                    "user_name": "HooverPresLib",
+                    "url": "http://facebook.com/HooverPresLib",
+                    "like_count": "1752"
+                },
+                {
+                    "user_name": "IkeLibrary",
+                    "url": "http://facebook.com/IkeLibrary",
+                    "like_count": "3635"
+                },
+                {
+                    "user_name": "LBJPresLib",
+                    "url": "http://facebook.com/LBJPresLib",
+                    "like_count": "2296"
+                },
+                {
+                    "user_name": "NARAatPhiladelphia",
+                    "url": "http://facebook.com/NARAatPhiladelphia",
+                    "like_count": "734"
+                },
+                {
+                    "user_name": "NARACAST",
+                    "url": "http://facebook.com/NARACAST",
+                    "like_count": "591"
+                },
+                {
+                    "user_name": "NARAFRC",
+                    "url": "http://facebook.com/NARAFRC",
+                    "like_count": "422"
+                },
+                {
+                    "user_name": "narastudentsandinterns",
+                    "url": "http://facebook.com/narastudentsandinterns",
+                    "like_count": "511"
+                },
+                {
+                    "user_name": "nationalarchivesatlanta",
+                    "url": "http://facebook.com/nationalarchivesatlanta",
+                    "like_count": "2140"
+                },
+                {
+                    "user_name": "nationalarchivesboston",
+                    "url": "http://facebook.com/nationalarchivesboston",
+                    "like_count": "1221"
+                },
+                {
+                    "user_name": "nationalarchiveschicago",
+                    "url": "http://facebook.com/nationalarchiveschicago",
+                    "like_count": "1387"
+                },
+                {
+                    "user_name": "nationalarchivesdenver",
+                    "url": "http://facebook.com/nationalarchivesdenver",
+                    "like_count": "559"
+                },
+                {
+                    "user_name": "nationalarchivesfortworth",
+                    "url": "http://facebook.com/nationalarchivesfortworth",
+                    "like_count": "1279"
+                },
+                {
+                    "user_name": "nationalarchiveskansascity",
+                    "url": "http://facebook.com/nationalarchiveskansascity",
+                    "like_count": "1349"
+                },
+                {
+                    "user_name": "nationalarchivesnewyork",
+                    "url": "http://facebook.com/nationalarchivesnewyork",
+                    "like_count": "2005"
+                },
+                {
+                    "user_name": "nationalarchivespreservation",
+                    "url": "http://facebook.com/nationalarchivespreservation",
+                    "like_count": "1942"
+                },
+                {
+                    "user_name": "nationalarchivesriverside",
+                    "url": "http://facebook.com/nationalarchivesriverside",
+                    "like_count": "502"
+                },
+                {
+                    "user_name": "nationalarchivesseattle",
+                    "url": "http://facebook.com/nationalarchivesseattle",
+                    "like_count": "472"
+                },
+                {
+                    "user_name": "nationalarchivesstlouis",
+                    "url": "http://facebook.com/nationalarchivesstlouis",
+                    "like_count": "865"
+                },
+                {
+                    "user_name": "nhprc",
+                    "url": "http://facebook.com/nhprc",
+                    "like_count": "3003"
+                },
+                {
+                    "user_name": "NixonPresidentialLibrary",
+                    "url": "http://facebook.com/NixonPresidentialLibrary",
+                    "like_count": "3155"
+                },
+                {
+                    "user_name": "reaganlibrary",
+                    "url": "http://facebook.com/reaganlibrary",
+                    "like_count": "1501"
+                },
+                {
+                    "user_name": "researchatusnationalarchives",
+                    "url": "http://facebook.com/researchatusnationalarchives",
+                    "like_count": "4242"
+                },
+                {
+                    "user_name": "TodaysDoc",
+                    "url": "http://facebook.com/TodaysDoc",
+                    "like_count": "3241"
+                },
+                {
+                    "user_name": "TrumanPresidentialLibrary",
+                    "url": "http://facebook.com/TrumanPresidentialLibrary",
+                    "like_count": "4737"
+                },
+                {
+                    "user_name": "USAConstitution",
+                    "url": "http://facebook.com/USAConstitution",
+                    "like_count": "5521"
+                },
+                {
+                    "user_name": "usnationalarchives",
+                    "url": "http://facebook.com/usnationalarchives",
+                    "like_count": "29802"
+                }
+            ],
+            "github": [
+                {
+                    "ID": "1275",
+                    "agency_id": "archives",
+                    "type": "github",
+                    "url": "http://github.com/usnationalarchives",
+                    "user_name": "usnationalarchives",
+                    "follower_count": null,
+                    "like_count": null,
+                    "repo_count": "4"
+                }
+            ],
+            "data_api": [
+                {
+                    "name": "FederalRegister.gov",
+                    "description": "Integration of the Regulations.gov API into FederalRegister.gov and its API. This integration would provide greater access to public comments and supporting documents in Regulations.gov, and improve process for submitting public comments from FederalRegister.gov into Regulations.gov."
+                },
+                {
+                    "name": "FederalRegiser.gov API",
+                    "description": "Expand the FederalRegister.gov API to include the \\\"Public Inspection Desk.\\\" "
+                },
+                {
+                    "name": "Code of Federal Regulations; Federal Register",
+                    "description": "Develop an API for FDsys through the Office of Federal Register-Government Printing Office Partnership"
+                },
+                {
+                    "name": "National Archives Catalog on Wikipedia",
+                    "description": "Make additional National Archives records available through Wikipedia, which is accessible through the MediaWiki API"
+                },
+                {
+                    "name": "National Archives Catalog on Flickr",
+                    "description": "Make additional National Archives records available on Flickr, which is accessible through the Flickr API"
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "FederalRegister.gov",
+                    "description": "Mobile optimize FederalRegister.gov"
+                },
+                {
+                    "name": "Daily Compilation of Presidential Documents",
+                    "description": "Develop a mobile application based on the Daily Compilation of Presidential Documents"
+                },
+                {
+                    "name": "Archives.gov",
+                    "description": "Mobile optimize Archives.gov"
+                },
+                {
+                    "name": "National Archives Catalog on Wikipedia ",
+                    "description": "Make additional National Archives records available through Wikipedia, which is mobile optimized and available through mobile apps"
+                },
+                {
+                    "name": "National Archives Catalog on Flickr",
+                    "description": "Make additional National Archives records available through Flickr, which is mobile optimized and available through mobile apps"
+                }
+            ],
+            "facebook_account_count": 38,
+            "facebook_like_count": 125729,
+            "twitter_account_count": 24,
+            "twitter_follower_count": 72103,
+            "github_account_count": 1,
+            "github_repo_count": 4
+        },
+        {
+            "agency_id": "nsf",
+            "name": "National Science Foundation (NSF)",
+            "url": "http://www.nsf.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/nsf.png",
+            "digital_strategy_html": "http://www.nsf.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.nsf.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.nsf.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "NSF",
+                    "url": "http://twitter.com/NSF",
+                    "follower_count": "330752"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "US.NSF",
+                    "url": "http://facebook.com/US.NSF",
+                    "like_count": "37597"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "Scientists and Engineers Statistical Data System (SESTAT) ",
+                    "description": "The Scientists and Engineers Statistical Data System (SESTAT) provides longitudinal information on the education and employment of the college-educated U.S. science and engineering workforce, collected through three biennial surveys. These surveys capture trends in employment opportunities and salaries in various degree fields, and help federal researchers to evaluate the effectiveness of equal opportunity efforts."
+                },
+                {
+                    "name": "NSF Award Information",
+                    "description": "Information pertaining to NSF awards from 1959 through the present. Data includes principal investigator, awardee institution, NSF program and associated NSF organizations, award amount, award dates, award abstract, and publications and conference proceedings produced as a result of the research."
+                },
+                {
+                    "name": "NSF Research Grant Funding Rates",
+                    "description": "NSF funding rates for competitive research proposals by organizational unit. (Funding rates constitute the number of awards divided by the number of actions for a given year by organizational unit). "
+                },
+                {
+                    "name": "Science & Engineering Indicators",
+                    "description": "Science and Engineering Indicators (SEI) provide U.S. and international data on the following subjects: 1) Elementary and Secondary Mathematics and Science Education 2) Higher Education in Science and Engineering 3) Science and Engineering Labor Force 4) Research and Development: National Trends and International Comparisons 5) Academic Research and Development 6) Industry, Technology, and the Global Marketplace 7) Science and Technology: Public Attitudes and Understanding 8) State Indicators. "
+                },
+                {
+                    "name": "Project Outcome Reports",
+                    "description": " Section 7010 of the America COMPETES Act requires that researchers funded in whole or in part by NSF report on the outcomes of the funded research for the general public. Project Outcomes Reports describe the project outcomes or findings, addressing the intellectual merit and broader impacts of the work as defined in NSF merit review criteria."
+                },
+                {
+                    "name": "Graduate Research Fellowship Program Awardees and Honorable Mention Recipients ",
+                    "description": "Demographic information for recipients of NSF GRFP awards. The GRFP provides three years of graduate education support for individuals who have demonstrated the potential for significant achievements in science and engineering research "
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "News",
+                    "description": "NSF press releases and other agency news products"
+                },
+                {
+                    "name": "Funding",
+                    "description": "Catalog of NSF’s funding opportunities with links to Grants.gov System"
+                },
+                {
+                    "name": "Discoveries",
+                    "description": "Articles describing notable results from NSF funded research"
+                },
+                {
+                    "name": "Awards",
+                    "description": "Searchable database of NSF awards."
+                },
+                {
+                    "name": "Staff Directory",
+                    "description": "Senior management list, organization list, browse-able and searchable staff list. "
+                },
+                {
+                    "name": "Events",
+                    "description": "Calendar of NSF events."
+                },
+                {
+                    "name": "Vacancies",
+                    "description": "Current job vacancies at NSF."
+                },
+                {
+                    "name": "Directions",
+                    "description": "Directions for visiting NSF headquarters in Ballston."
+                }
+            ],
+            "facebook_account_count": 1,
+            "facebook_like_count": 37597,
+            "twitter_account_count": 1,
+            "twitter_follower_count": 330752,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "nrc",
+            "name": "Nuclear Regulatory Commission (NRC)",
+            "url": "http://www.nrc.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/nrc.png",
+            "digital_strategy_html": "http://www.nrc.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.nrc.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.nrc.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "nrcgov",
+                    "url": "http://twitter.com/nrcgov",
+                    "follower_count": "3076"
+                }
+            ],
+            "facebook": [],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "Reactor Operating Status Reports",
+                    "description": "A web-based system that allows the NRC to report on the operating status and power output of commercial power reactors located within the continental United States"
+                },
+                {
+                    "name": "Power Reactor Daily Event Reports",
+                    "description": "A web-based system that allows the NRC to report on the daily events and activities occurring at commercial power reactors located within the continental United States"
+                },
+                {
+                    "name": "Operating Reactor Inspection Reports",
+                    "description": "A web-based system that allows the NRC to report on observations and findings of inspections  occurring at commercial power reactors located within the continental United States"
+                },
+                {
+                    "name": "",
+                    "description": "A web-based system that allows the NRC to report on  licensed facilities, activities, or basic component that fail to comply with NRC regulations"
+                },
+                {
+                    "name": "Part 21 (Component Defect Reports)",
+                    "description": "A web-based system that allows the NRC to communicate with the public daily on our regulatory activities and events"
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Public Meeting Feedback System",
+                    "description": "A web-based system that allows the NRC to collect public meeting feedback from meeting attendees"
+                },
+                {
+                    "name": "Top 5 Most-Accessed Agency Web Pages",
+                    "description": "A web-based system that allows the NRC to communicate with the public on our regulatory activities and events"
+                }
+            ],
+            "facebook_account_count": 0,
+            "facebook_like_count": 0,
+            "twitter_account_count": 1,
+            "twitter_follower_count": 3076,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "opm",
+            "name": "Office of Personnel Management (OPM)",
+            "url": "http://www.opm.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/opm.png",
+            "digital_strategy_html": "http://www.opm.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.opm.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.opm.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "CHCOCouncil",
+                    "url": "http://twitter.com/CHCOCouncil",
+                    "follower_count": "139"
+                },
+                {
+                    "user_name": "federalcfc",
+                    "url": "http://twitter.com/federalcfc",
+                    "follower_count": "516"
+                },
+                {
+                    "user_name": "fedfooddrive",
+                    "url": "http://twitter.com/fedfooddrive",
+                    "follower_count": "454"
+                },
+                {
+                    "user_name": "fedretireinfo",
+                    "url": "http://twitter.com/fedretireinfo",
+                    "follower_count": "2063"
+                },
+                {
+                    "user_name": "fedshirevets",
+                    "url": "http://twitter.com/fedshirevets",
+                    "follower_count": "1270"
+                },
+                {
+                    "user_name": "govhru",
+                    "url": "http://twitter.com/govhru",
+                    "follower_count": "62"
+                },
+                {
+                    "user_name": "hiringreform",
+                    "url": "http://twitter.com/hiringreform",
+                    "follower_count": "581"
+                },
+                {
+                    "user_name": "insurefeds",
+                    "url": "http://twitter.com/insurefeds",
+                    "follower_count": "612"
+                },
+                {
+                    "user_name": "USAJOBS",
+                    "url": "http://twitter.com/USAJOBS",
+                    "follower_count": "8922"
+                },
+                {
+                    "user_name": "usopm",
+                    "url": "http://twitter.com/usopm",
+                    "follower_count": "9315"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "chcocouncil",
+                    "url": "http://facebook.com/chcocouncil",
+                    "like_count": "117"
+                },
+                {
+                    "user_name": "fedbenefits",
+                    "url": "http://facebook.com/fedbenefits",
+                    "like_count": "8154"
+                },
+                {
+                    "user_name": "fedsfeedfamilies",
+                    "url": "http://facebook.com/fedsfeedfamilies",
+                    "like_count": "1013"
+                },
+                {
+                    "user_name": "fedshirevets",
+                    "url": "http://facebook.com/fedshirevets",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "pmf",
+                    "url": "http://facebook.com/pmf",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "PMFProgram",
+                    "url": "http://facebook.com/PMFProgram",
+                    "like_count": "3263"
+                },
+                {
+                    "user_name": "USAJOBS",
+                    "url": "http://facebook.com/USAJOBS",
+                    "like_count": "37189"
+                },
+                {
+                    "user_name": "USOPM",
+                    "url": "http://facebook.com/USOPM",
+                    "like_count": "14312"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "USAJOBS",
+                    "description": "Website to post and find federal jobs. By providing an API for USAJOBS, we will make it easier for third parties to (1) provide customized access to job postings (e.g., only those that would be of interest to members of a particular professional organization) or (2) combine job posting with other services or applications (e.g., discussion boards or other social media around federal jobs)."
+                },
+                {
+                    "name": "Federal Government Operating Status",
+                    "description": "Provides information on the operating status of federal agencies. Not only do federal employees need to know the operating status of their offices, but also many businesses and other organizations base their operating status decisions on ours. The API for the operating status will make it easier for those organizations and even other federal agencies to make full use of operating status data. "
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "USAJOBS",
+                    "description": "Website to post and find federal jobs. By keeping our popular iOS mobile app up-to-date and creating an Android version, we will better serve more people seeking federal employment."
+                },
+                {
+                    "name": "Federal Operating Status",
+                    "description": "Provides information on the operating status of federal agencies. Not only do federal employees use this information whenever there is bad weather or an unexpected major event such as an earthquake, but local businesses and other organizations often make their own operating status decisions based on the federal government’s decision. Although OPM has never created an application for the operating status, one exists for iOS devices and is sold by a private entity for $0.99. We will make this freely available information also more freely accessible with a mobile application for both iOS and Android devices."
+                }
+            ],
+            "facebook_account_count": 8,
+            "facebook_like_count": 64048,
+            "twitter_account_count": 10,
+            "twitter_follower_count": 23934,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "ssa",
+            "name": "Social Security Administration (SSA)",
+            "url": "http://www.ssa.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/ssa.png",
+            "digital_strategy_html": "http://www.ssa.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.ssa.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.ssa.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "segurosocial",
+                    "url": "http://twitter.com/segurosocial",
+                    "follower_count": "390"
+                },
+                {
+                    "user_name": "socialsecurity",
+                    "url": "http://twitter.com/socialsecurity",
+                    "follower_count": "9738"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "segurosocial",
+                    "url": "http://facebook.com/segurosocial",
+                    "like_count": "997"
+                },
+                {
+                    "user_name": "socialsecurity",
+                    "url": "http://facebook.com/socialsecurity",
+                    "like_count": "30263"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "SSA State Agency Monthly Workload Data",
+                    "description": "Monthly information from October 2000 onwards concerning claims for disability benefits that were referred for a disability determination to one of the 54 state agencies. The data may be used to examine disability application filing trends by time and by state, state agency workloads, and disability claims outcomes."
+                },
+                {
+                    "name": "Average Wait Time Until Hearing Held Report",
+                    "description": "A presentation of the average time (in months) from the hearing request date until a hearing is held for claims pending in the Office of Disability."
+                },
+                {
+                    "name": "Hearing Office Workload Data",
+                    "description": "A monthly presentation of four key workload indicators (pending, receipts, dispositions and average processing time) for each hearing office in the Office of Disability Adjudication and Review (ODAR)."
+                },
+                {
+                    "name": "Hearing Office Average Processing Time Ranking Report",
+                    "description": "A monthly ranking of the 165 ODAR hearing offices (including 3 satellite offices) by the average number of days until final disposition of the hearing request. The average shown will be a combined average for all cases completed in that hearing office. The public will be able to determine where a particular hearing office stands among the total with respect to this workload category."
+                },
+                {
+                    "name": "SSA/Department of State Identity Verification Web Service",
+                    "description": "SSA is providing the DOS with information to verify the identity of passport applicants via a web service. This is being done based on a reimbursable agreement with DOS."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Mobile Supplemental Security Income (SSI) Wage Reporting Application",
+                    "description": "SSI recipients will use this application to report their monthly wage amounts. This enables them to meet their monthly reporting obligations."
+                },
+                {
+                    "name": "Mobile Optimized Frequently Asked Questions (FAQs)",
+                    "description": "People seeking information from SSA will use this mobile optimized FAQ website to obtain information about numerous topics."
+                },
+                {
+                    "name": "Mobile Contact",
+                    "description": "People seeking to do business with SSA will use this application to get needed information and directions to their local SSA office. In addition they will have access to information about services available by phone and online."
+                },
+                {
+                    "name": "Mobile Optimized Life Expectancy Calculator",
+                    "description": "The Life Expectancy Calculator is a valuable financial planning tool which we encourage the public to use to help decide when to retire and begin collecting Social Security benefits. The Calculator uses the gender and birth date entered by the user to provide the average number of additional years a person of the same gender and age can expect to live when he reaches a specific age. Providing a mobile optimized version of the Calculator also provides links to other helpful retirement planning tools and helps to promote other online services."
+                }
+            ],
+            "facebook_account_count": 2,
+            "facebook_like_count": 31260,
+            "twitter_account_count": 2,
+            "twitter_follower_count": 10128,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        },
+        {
+            "agency_id": "usaid",
+            "name": "United States Agency for International Development (USAID)",
+            "url": "http://www.usaid.gov",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/digital-strategy/logos/usaid.png",
+            "digital_strategy_html": "http://www.usaid.gov/digitalstrategy/",
+            "digital_strategy_json": "http://www.usaid.gov/digitalstrategy.json",
+            "digital_strategy_xml": "http://www.usaid.gov/digitalstrategy.xml",
+            "twitter": [
+                {
+                    "user_name": "5thbday",
+                    "url": "http://twitter.com/5thbday",
+                    "follower_count": "2771"
+                },
+                {
+                    "user_name": "ProjectOpenData",
+                    "url": "http://twitter.com/ProjectOpenData",
+                    "follower_count": "1646"
+                },
+                {
+                    "user_name": "theOFDA",
+                    "url": "http://twitter.com/theOFDA",
+                    "follower_count": "1194"
+                },
+                {
+                    "user_name": "usaid",
+                    "url": "http://twitter.com/usaid",
+                    "follower_count": "207616"
+                },
+                {
+                    "user_name": "USAIDGH",
+                    "url": "http://twitter.com/USAIDGH",
+                    "follower_count": "16062"
+                }
+            ],
+            "facebook": [
+                {
+                    "user_name": "5thBDay",
+                    "url": "http://facebook.com/5thBDay",
+                    "like_count": "1568"
+                },
+                {
+                    "user_name": "USAID.News",
+                    "url": "http://facebook.com/USAID.News",
+                    "like_count": "0"
+                },
+                {
+                    "user_name": "USAID.OFDA",
+                    "url": "http://facebook.com/USAID.OFDA",
+                    "like_count": "159"
+                },
+                {
+                    "user_name": "USAIDGH",
+                    "url": "http://facebook.com/USAIDGH",
+                    "like_count": "7453"
+                }
+            ],
+            "github": [],
+            "data_api": [
+                {
+                    "name": "USAID Portfolio Map",
+                    "description": "Map depicts the locations of USAID-funded projects to better monitor development results, improve aid effectiveness and coordination, and enhance transparency and social accountability. The map depicts the total number of unique projects at the administrative one boundary level (i.e. region, state, province). For example, a Global Health project may operate in several provinces within a country, in which case it will be given a count of one in each of those provinces. A project count will not be given to a province if that project does not operate there. National projects are depicted across all administrative one boundaries to show the impact of where the work is taking place."
+                },
+                {
+                    "name": "Famine Early Warning System Network (FEWS NET)",
+                    "description": "A USAID-funded food security and famine early warning system covering more than 30 of the most food insecure countries in the world"
+                },
+                {
+                    "name": "U.S. Overseas Loans and Grants (Greenbook)",
+                    "description": "These data are U.S economic and military assistance by country from 1946 to 2010. This is the authoritative data set of U.S. foreign assistance. The data set is used to report U.S foreign assistance to Congress as required by the Foreign Assistance Act, Section 634."
+                }
+            ],
+            "mobile_api": [
+                {
+                    "name": "Development Experience Clearinghouse",
+                    "description": "USAID's Development Experience Clearinghouse (DEC) is the largest online resource for USAID funded technical and program documentation, with over 141700 documents available for electronic download. Search USAID's online database of agency-funded technical and program-related documents to download USAID documents in PDF format for free."
+                },
+                {
+                    "name": "USAID Portfolio Map",
+                    "description": "The Portfolio Map is a mobile app for accessing information about the development work USAID is performing every day.  The app will give mobile device users the ability to browse our portfolio for a subset of the countries in which USAID is working.   The app will provide general country overviews at a glance and also will allow users to access more detailed information as needed."
+                }
+            ],
+            "facebook_account_count": 4,
+            "facebook_like_count": 9180,
+            "twitter_account_count": 5,
+            "twitter_follower_count": 229289,
+            "github_account_count": 0,
+            "github_repo_count": 0
+        }
+    ],
+    "agency_count": 20
+}

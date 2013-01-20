@@ -1,0 +1,40 @@
+---
+layout: page
+title: Hack Weekends News
+---
+<script type="text/javascript">
+    function listNews()
+        {
+        $.getJSON('data/agencies.json', function(data) {          
+             $.each(data['agencies'], function(key, val) {
+                    var template = $('#agencyListingTemplate').html();
+                    var html = Mustache.to_html(template, val);
+                    $('#agencyListing').append(html);;
+                });  
+            });        
+        }        
+</script>
+
+{% raw  %}
+<script id="agencyListingTemplate" type="text/template">
+    <tr>
+        <td align="center" height="100" style="padding:5px;">
+            <a href="{{url}}" target="_blank"><img src="{{logo}}" width="100" /></a>
+        </td>
+        <td align="left" style="font-size: 16px; font-weight: bold;">
+            <a href="{{url}}" target="_blank" style="color:#000;">{{name}}</a>
+        </td>
+    </tr>          
+</script>
+{% endraw %}
+
+<p><a href="https://raw.github.com/kinlane/digital-strategy/gh-pages/data/agencies.json" target="_blank"><img src="images/json-data-store.jpg" align="right" width="40" style="padding-top: 10px;" /></a></p>
+<h1>Agencies</h1>
+<center>
+<table cellpadding="5" cellspacing="1" width="90%" border="0" id="agencyListing">  
+</table>
+</center>  
+
+<script type="text/javascript">
+listNews();
+</script>
