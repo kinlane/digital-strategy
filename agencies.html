@@ -2,8 +2,10 @@
 layout: page
 title: Agencies
 ---
+
+<!--Javascript that pulls JSON and renders it to the page-->
 <script type="text/javascript">
-    function listAGencies()
+    function listAgencies()
         {
         $.getJSON('data/agencies.json', function(data) {          
              $.each(data['agencies'], function(key, val) {
@@ -15,6 +17,7 @@ title: Agencies
         }        
 </script>
 
+<!--A template that provides layout for each entry in the JSON file-->
 {% raw  %}
 <script id="agencyListingTemplate" type="text/template">
     <tr>
@@ -28,10 +31,13 @@ title: Agencies
 </script>
 {% endraw %}
 
+<!--Always provide link to raw JSON file on Github-->
 <p><a href="https://raw.github.com/kinlane/digital-strategy/gh-pages/data/agencies.json" target="_blank"><img src="images/json-data-store.jpg" align="right" width="40" style="padding-top: 10px;" /></a></p>
 
-<table cellpadding="5" cellspacing="1" width="90%" border="0" id="agencyListing" style="padding-left: 100px;"></table>
+<!--Each entry in JSON file will have HTML template applied and appended to this table-->
+<table cellpadding="5" cellspacing="1" width="50%" border="0" id="agencyListing" align="center"></table>
 
+<!--This actually runs the whole process-->
 <script type="text/javascript">
-listAGencies();
+    listAgencies();
 </script>
