@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Storytelling
+title: Digital Strategy: 20 Federal Agencies, 76 data API and 75 Mobile API Initiatives
 ---
 {% include JB/setup %}
 
