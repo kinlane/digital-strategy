@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Digital Strategy: 20 Federal Agencies, 76 data API and 75 Mobile API Initiatives
+title: Digital Strategy 20 Federal Agencies 76 data API and 75 Mobile API Initiatives
 ---
+
 {% include JB/setup %}
 
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/federal-government/US_white_house_logo.png" alt="" width="200" align="right" /></p>

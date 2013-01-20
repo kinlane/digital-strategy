@@ -5,8 +5,8 @@ safe: ture
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 lsi: false
-source: hack-weekends
-destination: hack-weekends
+source: digital-strategy
+destination: digital-strategy
 pygments: true
 
 paginate: 10
