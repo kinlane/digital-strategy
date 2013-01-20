@@ -3,8 +3,9 @@ layout: page
 title: Hack Weekends News
 ---
 <script type="text/javascript">
-    function listNews()
+    function listAGencies()
         {
+           alert("running!");
         $.getJSON('data/agencies.json', function(data) {          
              $.each(data['agencies'], function(key, val) {
                     var template = $('#agencyListingTemplate').html();
@@ -36,5 +37,5 @@ title: Hack Weekends News
 </center>  
 
 <script type="text/javascript">
-listNews();
+listAGencies();
 </script>
