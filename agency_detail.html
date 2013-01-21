@@ -27,19 +27,6 @@ title: Agencies
                         $('#agencyDetail').append(html);                        
                     });
                     
-                    //Twitter
-                    $.each(val['twitter'], function(key3, val3) {
-                        var template = $('#agencyTwitterTemplate').html();
-                        var html = Mustache.to_html(template, val2);
-                        $('#agencyDetail').append(html);                        
-                    });    
-                                    
-                    //github
-                    $.each(val['github'], function(key4, val) {
-                        var template = $('#agencyGithubTemplate').html();
-                        var html = Mustache.to_html(template, val2);
-                        $('#agencyDetail').append(html);                        
-                    });                      
                     
                     }
                 });  
