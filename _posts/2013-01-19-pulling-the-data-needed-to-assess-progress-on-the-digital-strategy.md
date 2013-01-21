@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Pulling the Data Needed to Assess Progress on the Digital Strategy
+title: Pulling Data Needed to Assess Progress on Digital Strategy
 ---
 
 {% include JB/setup %}
 
-<p>I wanted to showcase the best of the White House Digital Strategy, so I developed one possible way to score federal agencies on their progress.</p>
-<p>To execute on this, I will need to pull data from APIs, and other means to develop a story about the progress of the Digital Strategy.</p>
+<p>I wanted to showcase the best of the White House Digital Strategy, so I developed one possible <a href="2013/01/18/developing-a-scorecard-rooted-in-core-of-the-digital-strategy/">way to score federal agencies on their progress</a>.</p>
+<p>To execute on this, I will need to pull data from APIs, and other ways, so I can develop a story about the progress of the Digital Strategy.</p>
 <p>First I needed a list of federal agencies.  Using USA.gov I was able to get a list of all 246 federal agencies via the <a href="http://www.usa.gov/About/developer-resources/federal-agency-directory/index.shtml" target="_blank">federal agency directory API</a>.</p>
 <p>I didn't just want the name of each agency, it would be nice to have an image too.  When some ninja surfing skills I was able to pull the logo for each federal agency.</p>
 <p>The first major component of a successful digital strategy is social.  I needed to pull a list of social accounts for each federal agency and once again turned to HowTo.gov, and used the <a href="http://www.usa.gov/About/developer-resources/social-media-registry.shtml" target="_blank">Social Media Registry</a>.</p>
