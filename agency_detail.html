@@ -53,7 +53,7 @@ title: Agencies
                     //github
                     $.each(val['data_api'], function(key5, val5) {
                         var template = $('#agencySystemTemplate').html();
-                        var html = Mustache.to_html(template, val4);
+                        var html = Mustache.to_html(template, val5);
                         $('#dataLising').append(html);                        
                     });                     
                     
@@ -61,9 +61,9 @@ title: Agencies
                     $('#agencyDetail').append(html);      
                     
                     //github
-                    $.each(val['mobile_api'], function(key5, val5) {
+                    $.each(val['mobile_api'], function(key6, val6) {
                         var template = $('#agencySystemTemplate').html();
-                        var html = Mustache.to_html(template, val4);
+                        var html = Mustache.to_html(template, val6);
                         $('#mobileLising').append(html);                        
                     });                                                            
                     
