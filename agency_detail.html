@@ -19,13 +19,7 @@ title: Agencies
                     // SOCIAL
                     var html = $('#socialHeaderTemplate').html();
                     $('#agencyDetail').append(html);                     
-                    
-                    //Facebook
-                    $.each(val['facebook'], function(key2, val2) {
-                        var template = $('#agencyFacebookTemplate').html();
-                        var html = Mustache.to_html(template, val2);
-                        $('#agencyDetail').append(html);                        
-                    });
+
                     
                     
                     }
