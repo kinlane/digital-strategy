@@ -111,14 +111,14 @@ title: Agencies
     </tr>
     <tr>
         <td colspan="2">
-            <ul class="mainlist" style="padding-left: 90px;" id="mobilelLising">
+            <ul class="mainlist" style="padding-left: 90px;" id="mobileLising">
             </ul>
         </td>
     <tr>
 </script>
 
 <script id="agencySpacerTemplate" type="text/template">
-    <li style="list-style:none;"></li>  
+    <li style="list-style:none;"> </li>  
 </script>
 <script id="agencyFacebookTemplate" type="text/template">
     <li style="list-style:none;"><a href="{{url}}" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /> <a href="{{url}}" target="_blank">{{user_name}}</a> (Likes: {{like_count}})</li>  
@@ -157,9 +157,6 @@ title: Agencies
 
 {% endraw %}
 
-<!--Always provide link to raw JSON file on Github-->
-<p><a href="https://raw.github.com/kinlane/digital-strategy/gh-pages/data/agencies.json" target="_blank"><img src="images/json-data-store.jpg" align="right" width="40" style="padding-top: 10px;" /></a></p>
-
 <!--Each entry in JSON file will have HTML template applied and appended to this table-->
 <table cellpadding="5" cellspacing="1" width="50%" border="0" id="agencyDetail" align="center"></table>
 
@@ -167,3 +164,6 @@ title: Agencies
 <script type="text/javascript">
     showAgency(getUrlVar('agency_id'));
 </script>
+<br />
+<p align="center"><a href="agencies.html"><strong>Return to Agency Listing</strong></a></p>
+    
