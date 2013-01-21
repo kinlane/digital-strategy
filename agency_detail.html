@@ -54,7 +54,15 @@ title: Agencies
     <li style="list-style:none;"><a href="{{url}}" target="_blank"><img src="/images/icons/github.png" width="25" /> <a href="{{url}}" target="_blank">{{user_name}}</a> (Repos: {{repo_count}})</li>  
 </script>
 
-<script id="agencyDetailSocialTemplate" type="text/template">   
+<script id="agencyDetailTemplate" type="text/template">
+    <tr>
+        <td align="center" height="100" style="padding:5px;">
+            <a href="{{url}}" target="_blank"><img src="{{logo}}" width="100" /></a>
+        </td>
+        <td align="left" style="font-size: 16px; font-weight: bold;">
+            <a href="{{url}}" target="_blank" style="color:#000;">{{name}}</a>
+        </td>
+    </tr>    
     <tr>
         <td colspan="2" style="padding-left: 90px;">
             <br /><p><strong>URL:</strong>  <a href="{{url}}" target="_blank">{{url}}</a></p>
